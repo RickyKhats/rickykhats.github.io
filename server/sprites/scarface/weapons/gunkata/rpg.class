@@ -1,0 +1,10 @@
+
+/* ИМЯ ПРОФИЛЯ | ПАРОЛЬ ПРОФИЛЯ | УРОВЕНЬ | МОНЕТЫ | ID улучшений
+ *  "Ricky_Khats" "QwertyAsd1Q" "10" "100" "1"
+ *	
+ */
+
+#DATA_FILE_NAME "rpg_save"
+public rpg_init(){
+
+}

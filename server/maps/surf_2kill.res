@@ -1,0 +1,12 @@
+"res"
+{
+maps/surf_2kill.res
+maps/surf_2kill.nav
+maps/surf_2kill.bsp
+gfx/env/mnts_bk.tga
+gfx/env/mnts_dn.tga
+gfx/env/mnts_ft.tga
+gfx/env/mnts_lf.tga
+gfx/env/mnts_rt.tga
+gfx/env/mnts_up.tga
+}
