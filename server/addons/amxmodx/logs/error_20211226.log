@@ -1,0 +1,159 @@
+L 12/26/2021 - 03:00:28: Start of error session.
+L 12/26/2021 - 03:00:28: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 03:00:28: Player 1 is not in game.
+L 12/26/2021 - 03:00:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 03:00:28: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/26/2021 - 03:00:28: [AMXX]    [0] menu_system.inl::main_menu_function (line 149)
+L 12/26/2021 - 03:00:28: [AMXX]    [1] menu_system.inl::privilege_menu_handle (line 230)
+L 12/26/2021 - 03:40:24: Start of error session.
+L 12/26/2021 - 03:40:24: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 03:40:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 03:40:24: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 03:40:24: [AMXX]    [0] menu_system.inl::rollback_is_end (line 104)
+L 12/26/2021 - 03:40:24: [AMXX]    [1] menu_system.inl::cso_menu_function (line 827)
+L 12/26/2021 - 03:40:24: [AMXX]    [2] menu_system.inl::privilege_menu_handle (line 261)
+L 12/26/2021 - 03:40:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 03:40:27: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 03:40:27: [AMXX]    [0] menu_system.inl::rollback_is_end (line 104)
+L 12/26/2021 - 03:40:27: [AMXX]    [1] menu_system.inl::cso_menu_function (line 827)
+L 12/26/2021 - 03:40:27: [AMXX]    [2] menu_system.inl::privilege_menu_handle (line 261)
+L 12/26/2021 - 03:40:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 03:40:29: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 03:40:29: [AMXX]    [0] menu_system.inl::rollback_is_end (line 104)
+L 12/26/2021 - 03:40:29: [AMXX]    [1] menu_system.inl::cso_menu_function (line 827)
+L 12/26/2021 - 03:40:29: [AMXX]    [2] menu_system.inl::privilege_menu_handle (line 261)
+L 12/26/2021 - 03:56:41: Start of error session.
+L 12/26/2021 - 03:56:41: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 03:56:41: Player 1 is not in game.
+L 12/26/2021 - 03:56:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 03:56:41: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/26/2021 - 03:56:41: [AMXX]    [0] menu_system.inl::main_menu_function (line 155)
+L 12/26/2021 - 03:56:41: [AMXX]    [1] menu_system.inl::privilege_menu_handle (line 245)
+L 12/26/2021 - 12:11:58: Start of error session.
+L 12/26/2021 - 12:11:58: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 12:11:58: Player 1 is not in game.
+L 12/26/2021 - 12:11:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 12:11:58: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/26/2021 - 12:11:58: [AMXX]    [0] menu_system.inl::boss_menu_function (line 794)
+L 12/26/2021 - 12:11:58: [AMXX]    [1] menu_system.inl::gift_menu_handle (line 853)
+L 12/26/2021 - 14:39:42: Start of error session.
+L 12/26/2021 - 14:39:42: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 14:39:42: Invalid function "fuck"
+L 12/26/2021 - 14:39:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 14:39:42: [AMXX] Run time error 19: function not found 
+L 12/26/2021 - 14:39:42: [AMXX]    [0] menu_system.inl::give (line 24)
+L 12/26/2021 - 16:25:40: Start of error session.
+L 12/26/2021 - 16:25:40: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:25:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:25:40: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:25:40: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:25:40: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:25:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:25:47: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:25:47: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:27:14: Start of error session.
+L 12/26/2021 - 16:27:14: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:27:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:27:14: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:27:14: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:27:14: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:29:03: Start of error session.
+L 12/26/2021 - 16:29:03: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:29:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:29:03: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:29:03: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:29:03: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:29:50: Start of error session.
+L 12/26/2021 - 16:29:50: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:29:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:29:50: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:29:50: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:29:50: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:30:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:30:14: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:30:14: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:30:17: Player 1 is not in game.
+L 12/26/2021 - 16:30:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:30:17: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/26/2021 - 16:30:17: [AMXX]    [0] menu_system.inl::privilege_menu_function (line 297)
+L 12/26/2021 - 16:30:17: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 806)
+L 12/26/2021 - 16:36:37: Start of error session.
+L 12/26/2021 - 16:36:37: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:36:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:37: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:37: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:37: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:36:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:38: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:38: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:39: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:39: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:40: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:40: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:40: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:40: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:41: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:41: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:41: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:41: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:41: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:41: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:41: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:41: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:42: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:42: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:42: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:42: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:42: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:42: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:42: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:42: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:42: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:42: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:42: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:42: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:43: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:43: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:43: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:43: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:43: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:43: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:36:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:36:45: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:36:45: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:37:28: Start of error session.
+L 12/26/2021 - 16:37:28: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:37:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:37:28: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:37:28: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:37:28: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:40:21: Start of error session.
+L 12/26/2021 - 16:40:21: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:40:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:40:21: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:40:21: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:40:21: [AMXX]    [1] menu_system.inl::cso_menu_handle (line 839)
+L 12/26/2021 - 16:40:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:40:24: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:40:24: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 844)
+L 12/26/2021 - 16:41:59: Start of error session.
+L 12/26/2021 - 16:41:59: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211226.log")
+L 12/26/2021 - 16:41:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/26/2021 - 16:41:59: [AMXX] Run time error 4: index out of bounds 
+L 12/26/2021 - 16:41:59: [AMXX]    [0] menu_system.inl::cso_menu_handle (line 850)

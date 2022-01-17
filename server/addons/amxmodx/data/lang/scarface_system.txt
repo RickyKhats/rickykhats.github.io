@@ -1,0 +1,94 @@
+
+
+
+[en]
+
+CLOSED 							=	"CLOSED"
+FREE 							=	"FREE"
+UNAVAILABLE 					=  	"Unavailable"
+
+EXIT							=	"Exit"
+BACK							=	"Back"
+NEXT							=	"Next"
+
+LABEL_PRIV_COST					=	"Prices for privileges"
+
+MENU_MAIN_NAME 					=	"Main Menu"
+MENU_MAIN_LABEL_RPG 			=	"RPG menu^n"
+MENU_MAIN_LABEL_GET_JP 			=	"Get Jetpack"
+MENU_MAIN_LABEL_REMOVE_JP 		=	"Remove Jetpack"
+
+TEAM_MENU_NAME 					=	"Choose Team"
+TEAM_MENU_LABEL_T				= 	"Terrorist"
+TEAM_MENU_LABEL_CT				= 	"Counter-Terrorist"
+TEAM_MENU_LABEL_RANDOM			= 	"Random Choice"
+TEAM_MENU_LABEL_SPECTRATE		= 	"Spectrate"
+
+VIEW_MENU_NAME					= 	"Change view"
+VIEW_MENU_LABEL_THIRD			= 	"Third person"
+VIEW_MENU_LABEL_FIRST			= 	"First person"
+VIEW_MENU_LABEL_BACK			= 	"back"
+VIEW_MENU_LABEL_TOP				= 	"top"
+VIEW_MENU_LABEL_RIGHT			= 	"right"
+
+LK_MENU_NAME 					=	"Personal accound"
+LK_MENU_LABEL_TOP				= 	"Top 15"
+LK_MENU_LABEL_RESET_SCORE		= 	"Reset score"
+LK_MENU_LABEL_VOTEMAP			= 	"Vote map"
+LK_MENU_LABEL_MUTE				= 	"Mute player"
+LK_MENU_LABEL_VOTEBAN			= 	"Vote ban"
+
+PREFIX_MENU_NAME				= 	"Change prefix"
+
+MODEL_MENU_NAME					= 	"Change model"
+
+
+KNIFE_MENU_NAME 				=	"Knife Menu"
+
+PRIV_MENU_NAME 					=	"Privilegie menu"
+
+[ru]
+
+CLOSED							=	"ЗАКРЫТО"
+FREE							=	"БЕСПЛАТНО"
+UNAVAILABLE 					=	"Недоступно"
+
+EXIT							=	"Выход"
+BACK							=	"Назад"
+NEXT							=	"Дальше"
+
+LABEL_PRIV_COST					=	"Цены на привилегии"
+
+MENU_MAIN_NAME 					=	"Главное Меню"
+MENU_MAIN_LABEL_RPG 			=	"RPG меню"
+MENU_MAIN_LABEL_GET_JP 			=	"Взять джетпак"
+MENU_MAIN_LABEL_REMOVE_JP 		=	"Убрать Джетпак"
+
+
+TEAM_MENU_NAME 					=	"Выбрать Команду"
+TEAM_MENU_LABEL_T				= 	"Террорист"
+TEAM_MENU_LABEL_CT				= 	"Контр-Террорист"
+TEAM_MENU_LABEL_RANDOM			= 	"Случайный выбор"
+TEAM_MENU_LABEL_SPECTRATE		= 	"Наблюдение"
+
+VIEW_MENU_NAME					= 	"Сменить вид"
+VIEW_MENU_LABEL_THIRD			= 	"От третьего лица"
+VIEW_MENU_LABEL_FIRST			= 	"От первого лица"
+VIEW_MENU_LABEL_BACK			= 	"сзади"
+VIEW_MENU_LABEL_TOP				= 	"сверху"
+VIEW_MENU_LABEL_RIGHT			= 	"справа"
+
+LK_MENU_NAME 					=	"Личный кабинет"
+LK_MENU_LABEL_TOP				= 	"Топ 15"
+LK_MENU_LABEL_RESET_SCORE		= 	"Сбросить счёт"
+LK_MENU_LABEL_VOTEMAP			= 	"Голосовать за смену карты"
+LK_MENU_LABEL_MUTE				= 	"Заглушить игрока"
+LK_MENU_LABEL_VOTEBAN			= 	"Голосовать за бан игрока"
+
+PREFIX_MENU_NAME				= 	"Сменить префикс"
+
+MODEL_MENU_NAME					= 	"Сменить модель"
+
+KNIFE_MENU_NAME 				=	"Меню ножей"
+
+PRIV_MENU_NAME 					=	"Меню привилегий"

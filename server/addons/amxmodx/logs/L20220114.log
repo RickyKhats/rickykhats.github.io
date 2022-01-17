@@ -1,0 +1,832 @@
+L 01/14/2022 - 00:36:06: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 00:36:21: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 01/14/2022 - 00:38:16: -------- Mapchange to cs_militia --------
+L 01/14/2022 - 00:38:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 00:38:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 00:38:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 00:56:17: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 00:56:32: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 01/14/2022 - 00:58:26: -------- Mapchange to de_train --------
+L 01/14/2022 - 00:58:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 00:58:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 00:58:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:16:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 01:16:43: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 01/14/2022 - 01:18:37: -------- Mapchange to de_airstrip --------
+L 01/14/2022 - 01:18:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:18:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:18:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:36:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 01:36:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 01/14/2022 - 01:38:47: -------- Mapchange to cs_havana --------
+L 01/14/2022 - 01:38:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:38:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:38:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:41:49: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 01:42:09: -------- Mapchange to cs_havana --------
+L 01/14/2022 - 01:42:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:42:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:42:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:42:10: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 01:46:45: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 01:50:04: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 01:50:04: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 01:50:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:50:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:50:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:50:09: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 01:50:44: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 01:58:56: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 01:59:04: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 01:59:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:59:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:59:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 01:59:05: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 02:01:10: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 02:01:22: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 02:01:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:01:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:01:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:01:23: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 02:02:14: [rpg_mod.amxx] ADMIN Ricky_Khats used cmd [ amx_rpg_lvl Ricky_Khats + 20000  ], affected players: 1
+L 01/14/2022 - 02:02:26: [rpg_mod.amxx] ADMIN Ricky_Khats used cmd [ amx_rpg_lvl Ricky_Khats = 777 ], affected players: 1
+L 01/14/2022 - 02:19:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 02:19:38: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 01/14/2022 - 02:21:32: -------- Mapchange to de_chateau --------
+L 01/14/2022 - 02:21:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:21:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:21:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:34:29: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 02:35:01: -------- Mapchange to de_chateau --------
+L 01/14/2022 - 02:35:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:35:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:35:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:35:03: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 02:38:35: -------- Mapchange to de_chateau --------
+L 01/14/2022 - 02:38:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:38:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:38:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:38:36: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 02:56:35: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 02:56:50: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 01/14/2022 - 02:58:45: -------- Mapchange to cs_siege --------
+L 01/14/2022 - 02:58:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:58:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 02:58:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 03:16:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 03:17:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 01/14/2022 - 03:18:55: -------- Mapchange to de_cbble --------
+L 01/14/2022 - 03:18:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 03:18:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 03:18:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 03:36:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 03:37:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/14/2022 - 03:39:06: -------- Mapchange to de_dust --------
+L 01/14/2022 - 03:39:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 03:39:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 03:39:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:47:44: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 12:47:45: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 12:47:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:47:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:47:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:47:56: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 12:47:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:47:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:47:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:55:16: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 12:56:46: [mapsmenu.amxx] Cmd: "Ricky_Khats<1><STEAM_0:0:2007752829><>" changelevel "de_dust"
+L 01/14/2022 - 12:56:48: -------- Mapchange to de_dust --------
+L 01/14/2022 - 12:56:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:56:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:56:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:56:50: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 12:59:11: -------- Mapchange to de_dust --------
+L 01/14/2022 - 12:59:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:59:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:59:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 12:59:18: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 13:03:14: -------- Mapchange to de_dust --------
+L 01/14/2022 - 13:03:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:03:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:03:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:03:15: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 13:17:55: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 13:18:13: -------- Mapchange to de_dust --------
+L 01/14/2022 - 13:18:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:18:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:18:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:18:14: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 13:20:06: -------- Mapchange to de_dust --------
+L 01/14/2022 - 13:20:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:20:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:20:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:20:08: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 13:38:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 13:38:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 01/14/2022 - 13:40:26: -------- Mapchange to de_cbble --------
+L 01/14/2022 - 13:40:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:40:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 13:40:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:08:14: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 14:08:14: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:08:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:08:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:08:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:08:31: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:11:15: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:11:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:11:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:11:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:11:17: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:19:42: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:19:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:19:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:19:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:19:44: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:23:04: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:23:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:23:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:23:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:23:06: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:24:14: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:24:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:24:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:24:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:24:15: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:27:11: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:27:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:27:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:27:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:27:12: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:28:15: -------- Mapchange to de_nuke --------
+L 01/14/2022 - 14:28:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:28:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:28:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:28:17: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 14:35:51: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 14:35:51: -------- Mapchange to surf_ski_2 --------
+L 01/14/2022 - 14:35:53: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/14/2022 - 14:35:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:35:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 14:35:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:25:42: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 16:25:42: -------- Mapchange to surf_ski_2 --------
+L 01/14/2022 - 16:25:44: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/14/2022 - 16:25:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:25:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:25:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:27:44: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 16:27:44: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 16:27:45: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/14/2022 - 16:27:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:27:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:27:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:33:54: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 16:36:31: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 16:36:32: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 16:36:33: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/14/2022 - 16:36:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:36:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:36:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:39:14: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 16:39:43: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 16:41:27: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 16:41:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:41:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:41:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:41:29: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 16:41:29: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 16:41:29: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 16:41:41: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 16:41:41: [admin.amxx] Login: "MAMON<3><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 16:46:37: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 16:46:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:46:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:46:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:46:40: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 16:46:40: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 16:46:40: [admin.amxx] Login: "MAMON<3><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 16:50:34: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 16:50:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:50:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:50:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 16:50:37: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 16:50:37: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 16:50:37: [admin.amxx] Login: "MAMON<3><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 17:01:08: [admincmd.amxx] ExtendMap: "MAMON<3><STEAM_0:0:1639286929><>" extended map "surf_0newage" for 90 minutes.
+L 01/14/2022 - 17:03:21: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:03:21: [admin.amxx] Login: "MAMON<89><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 17:03:35: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 17:03:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:03:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:03:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:03:39: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 17:03:39: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:03:39: [admin.amxx] Login: "MAMON<89><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 17:04:22: [plmenu.amxx] Kick: "MAMON<89><STEAM_0:0:1639286929><>" kick "Counter123<128><BOT><>"
+L 01/14/2022 - 17:12:23: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 17:12:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:12:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:12:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:12:25: [admin.amxx] Login: "Ricky_Khats<2><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 17:12:25: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:12:25: [admin.amxx] Login: "MAMON<89><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 17:21:00: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:21:00: [admin.amxx] Login: "MAMON<167><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 17:27:03: [admin.amxx] Login: "Ricky_Khats<168><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 17:27:14: [admin.amxx] Login: "Ricky_Khats<169><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 17:31:38: [admin.amxx] Login: "Ricky_Khats<170><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 17:34:58: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 17:34:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:34:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:34:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 17:35:00: [admin.amxx] Login: "Ricky_Khats<170><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 17:35:00: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:35:00: [admin.amxx] Login: "MAMON<167><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 17:52:23: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:52:23: [admin.amxx] Login: "MAMON<175><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 17:52:38: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:52:38: [admin.amxx] Login: "MAMON<176><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 17:53:02: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:53:02: [admin.amxx] Login: "MAMON<177><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 17:53:54: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 17:53:54: [admin.amxx] Login: "MAMON<178><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 17:56:35: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 17:56:35: [admin.amxx] Login: "MAMON<180><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 17:56:52: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 17:56:52: [admin.amxx] Login: "MAMON<181><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:03:29: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 18:03:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:03:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:03:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:03:31: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:03:31: [admin.amxx] Login: "MAMON<181><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:09:17: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:09:17: [admin.amxx] Login: "MAMON<182><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:11:37: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 18:11:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:11:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:11:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:11:39: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:11:39: [admin.amxx] Login: "MAMON<182><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:14:32: [mapsmenu.amxx] Cmd: "MAMON<182><STEAM_0:0:1639286929><>" changelevel "surf_dark_day"
+L 01/14/2022 - 18:14:34: -------- Mapchange to surf_dark_day --------
+L 01/14/2022 - 18:14:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:14:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:14:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:14:36: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:14:36: [admin.amxx] Login: "MAMON<182><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:26:59: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:26:59: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:34:48: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_dark_day"
+L 01/14/2022 - 18:34:51: -------- Mapchange to surf_dark_day --------
+L 01/14/2022 - 18:34:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:34:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:34:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:34:52: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:34:52: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:40:04: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_machine2"
+L 01/14/2022 - 18:40:07: -------- Mapchange to surf_machine2 --------
+L 01/14/2022 - 18:40:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:40:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:40:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:40:09: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:40:09: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:44:04: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_machine2"
+L 01/14/2022 - 18:44:06: -------- Mapchange to surf_machine2 --------
+L 01/14/2022 - 18:44:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:44:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:44:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:44:08: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:44:08: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:45:14: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 18:45:16: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 18:45:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:45:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:45:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:45:18: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:45:18: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:47:22: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_sand"
+L 01/14/2022 - 18:47:24: -------- Mapchange to surf_sand --------
+L 01/14/2022 - 18:47:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:47:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:47:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:47:26: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:47:26: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:49:09: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_sand"
+L 01/14/2022 - 18:49:11: -------- Mapchange to surf_sand --------
+L 01/14/2022 - 18:49:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:49:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:49:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:49:13: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:49:13: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:49:54: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_south"
+L 01/14/2022 - 18:49:56: -------- Mapchange to surf_south --------
+L 01/14/2022 - 18:49:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:49:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:49:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:49:58: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:49:58: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:50:15: [mapsmenu.amxx] Cmd: "MAMON<183><STEAM_0:0:1639286929><>" changelevel "surf_winter_final"
+L 01/14/2022 - 18:50:17: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 18:50:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:50:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:50:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:50:19: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:50:19: [admin.amxx] Login: "MAMON<183><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:55:24: [admin.amxx] Login: "Ricky_Khats<641><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 18:56:20: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:56:20: [admin.amxx] Login: "MAMON<642><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:56:50: [admin.amxx] Login: "Ricky_Khats<643><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 18:58:27: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 18:58:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:58:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:58:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:58:29: [admin.amxx] Login: "Ricky_Khats<643><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 18:58:29: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 18:58:29: [admin.amxx] Login: "MAMON<642><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 18:59:29: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 18:59:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:59:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:59:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 18:59:31: [admin.amxx] Login: "Ricky_Khats<643><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:00:16: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 19:00:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:00:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:00:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:00:18: [admin.amxx] Login: "Ricky_Khats<643><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:01:21: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 19:01:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:01:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:01:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:01:26: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:04:59: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 19:05:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:05:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:05:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:05:00: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:06:54: [mapsmenu.amxx] Cmd: "Ricky_Khats<644><STEAM_0:0:2007752829><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:06:57: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:06:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:06:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:06:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:06:59: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:07:27: [mapsmenu.amxx] Cmd: "Ricky_Khats<644><STEAM_0:0:2007752829><>" changelevel "surf_2kill"
+L 01/14/2022 - 19:07:29: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 19:07:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:07:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:07:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:07:32: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:08:24: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:08:24: [admin.amxx] Login: "MAMON<655><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:13:25: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 19:13:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:13:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:13:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:13:26: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:13:26: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:13:26: [admin.amxx] Login: "MAMON<655><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:21:27: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 19:21:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:21:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:21:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:21:30: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:21:30: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:21:30: [admin.amxx] Login: "MAMON<655><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:26:22: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 19:26:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:26:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:26:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:26:24: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:26:24: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:26:24: [admin.amxx] Login: "MAMON<655><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:30:59: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 19:31:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:31:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:31:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:31:02: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:31:02: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:31:02: [admin.amxx] Login: "MAMON<655><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:33:03: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:33:03: [admin.amxx] Login: "MAMON<672><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 19:33:13: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:33:13: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:37:11: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:37:13: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:37:15: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:37:15: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:37:15: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:40:10: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:40:12: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:40:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:40:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:40:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:40:14: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:40:14: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:40:14: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:42:51: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:42:53: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:42:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:42:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:42:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:42:55: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:42:55: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:42:55: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:44:49: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:44:51: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:44:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:44:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:44:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:44:53: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:44:54: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:44:54: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:48:33: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:48:35: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:48:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:48:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:48:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:48:37: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:48:37: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:48:37: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:49:02: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 19:49:04: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 19:49:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:49:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:49:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:49:06: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:49:06: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:49:06: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:49:55: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 19:49:58: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 19:49:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:49:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:49:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:50:00: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:50:00: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:50:00: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:50:45: [mapsmenu.amxx] Cmd: "MAMON<673><STEAM_0:0:1639286929><>" changelevel "surf_crystals"
+L 01/14/2022 - 19:50:47: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 19:50:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:50:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:50:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:50:49: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:50:49: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:50:49: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:52:13: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 19:52:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:52:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:52:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:52:15: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 19:52:15: [rpg_mod.amxx] missing settings for 2
+L 01/14/2022 - 19:52:15: [admin.amxx] Login: "MAMON<673><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 19:58:46: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 19:58:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:58:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:58:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 19:58:48: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 20:01:32: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 20:01:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:01:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:01:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:01:35: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 20:02:40: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 20:02:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:02:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:02:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:02:42: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 20:04:44: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 20:04:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:04:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:04:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 20:04:46: [admin.amxx] Login: "Ricky_Khats<644><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 20:05:18: [admin.amxx] Login: "Ricky_Khats<706><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 21:54:20: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 21:54:20: [admin.amxx] Login: "MAMON<707><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 21:55:36: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 21:55:36: [admin.amxx] Login: "MAMON<708><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 21:55:46: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 21:55:46: [admin.amxx] Login: "MAMON<709><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 21:56:45: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 21:56:45: [admin.amxx] Login: "MAMON<710><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 21:57:39: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 21:57:39: [admin.amxx] Login: "MAMON<711><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 21:57:52: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 21:57:52: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 21:57:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 21:57:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 21:57:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 21:58:00: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 21:58:00: [admin.amxx] Login: "MAMON<5><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 21:59:39: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 21:59:39: [admin.amxx] Login: "MAMON<6><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 21:59:43: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 21:59:43: [admin.amxx] Login: "MAMON<7><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:00:35: [mapsmenu.amxx] Cmd: "MAMON<7><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 22:00:37: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 22:00:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:00:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:00:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:00:38: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 22:00:38: [admin.amxx] Login: "MAMON<7><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:05:06: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/14/2022 - 22:05:06: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 22:05:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:05:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:05:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:05:13: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:05:13: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:07:01: [mapsmenu.amxx] Cmd: "MAMON<1><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 22:07:03: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 22:07:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:07:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:07:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:07:04: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:07:04: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:08:53: [mapsmenu.amxx] Cmd: "MAMON<1><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 22:08:55: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 22:08:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:08:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:08:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:08:57: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:08:57: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:11:18: [mapsmenu.amxx] Cmd: "MAMON<1><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 22:11:20: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 22:11:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:11:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:11:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:11:22: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:11:22: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:12:58: [mapsmenu.amxx] Cmd: "MAMON<1><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 22:13:00: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 22:13:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:13:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:13:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:13:02: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:13:02: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:14:24: [mapsmenu.amxx] Cmd: "MAMON<1><STEAM_0:0:1639286929><>" changelevel "surf_2kill"
+L 01/14/2022 - 22:14:26: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 22:14:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:14:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:14:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:14:28: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:14:28: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:16:13: [mapsmenu.amxx] Cmd: "MAMON<1><STEAM_0:0:1639286929><>" changelevel "surf_crystals"
+L 01/14/2022 - 22:16:15: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 22:16:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:16:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:16:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:16:17: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:16:17: [admin.amxx] Login: "MAMON<1><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:17:33: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:17:33: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:19:53: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_crystals"
+L 01/14/2022 - 22:19:55: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 22:19:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:19:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:19:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:19:56: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:19:56: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:20:22: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:28:09: [rpg_mod.amxx] ADMIN Ricky_Khats used cmd [ amx_rpg_lvl @all = 15000 ], affected players: 2
+L 01/14/2022 - 22:28:35: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_crystals"
+L 01/14/2022 - 22:28:37: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 22:28:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:28:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:28:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:28:39: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:28:39: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:28:39: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:32:34: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_crystals"
+L 01/14/2022 - 22:32:36: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 22:32:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:32:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:32:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:32:38: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:32:38: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:32:38: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:37:40: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_crystals"
+L 01/14/2022 - 22:37:42: -------- Mapchange to surf_crystals --------
+L 01/14/2022 - 22:37:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:37:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:37:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:37:44: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:37:44: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:37:44: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:39:21: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_dark_day"
+L 01/14/2022 - 22:39:23: -------- Mapchange to surf_dark_day --------
+L 01/14/2022 - 22:39:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:39:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:39:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:39:25: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:39:25: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:39:25: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:44:33: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_dark_day"
+L 01/14/2022 - 22:44:36: -------- Mapchange to surf_dark_day --------
+L 01/14/2022 - 22:44:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:44:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:44:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:44:37: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:44:37: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:44:37: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:44:55: [mapsmenu.amxx] Cmd: "MAMON<31><STEAM_0:0:1639286929><>" changelevel "surf_machine2"
+L 01/14/2022 - 22:44:57: -------- Mapchange to surf_machine2 --------
+L 01/14/2022 - 22:44:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:44:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:44:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:44:59: [admin.amxx] Login: "Ricky_Khats<36><STEAM_0:0:2007752829><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "26.73.233.1")
+L 01/14/2022 - 22:44:59: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:44:59: [admin.amxx] Login: "MAMON<31><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:52:48: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:52:48: [admin.amxx] Login: "MAMON<137><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:53:20: [mapsmenu.amxx] Cmd: "MAMON<137><STEAM_0:0:1639286929><>" changelevel "surf_machine2"
+L 01/14/2022 - 22:53:23: -------- Mapchange to surf_machine2 --------
+L 01/14/2022 - 22:53:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:53:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:53:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:53:24: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:53:24: [admin.amxx] Login: "MAMON<137><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:54:15: [mapsmenu.amxx] Cmd: "MAMON<137><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 22:54:18: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 22:54:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:54:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:54:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:54:20: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:54:20: [admin.amxx] Login: "MAMON<137><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:56:20: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:56:20: [admin.amxx] Login: "MAMON<171><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:56:22: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:56:22: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:56:36: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 22:56:38: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 22:56:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:56:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:56:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:56:40: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:56:40: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:57:19: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 22:57:21: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 22:57:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:57:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:57:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:57:23: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:57:23: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:58:41: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 22:58:43: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 22:58:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:58:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:58:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:58:45: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:58:45: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 22:59:44: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 22:59:46: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 22:59:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:59:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:59:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 22:59:48: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 22:59:48: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:00:49: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:00:52: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:00:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:00:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:00:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:00:54: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:00:54: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:02:26: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:02:28: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:02:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:02:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:02:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:02:30: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:02:30: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:03:26: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:03:28: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:03:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:03:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:03:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:03:30: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:03:30: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:04:36: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:04:38: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:04:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:04:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:04:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:04:40: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:04:40: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:06:31: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:06:33: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:06:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:06:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:06:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:06:35: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:06:35: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:07:23: [mapsmenu.amxx] Cmd: "MAMON<172><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 23:07:26: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 23:07:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:07:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:07:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:07:28: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:07:28: [admin.amxx] Login: "MAMON<172><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:08:32: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:08:32: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:09:20: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:09:22: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:09:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:09:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:09:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:09:24: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:09:24: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:11:04: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:11:06: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:11:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:11:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:11:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:11:08: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:11:08: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:11:47: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_riddle_b1"
+L 01/14/2022 - 23:11:50: -------- Mapchange to surf_riddle_b1 --------
+L 01/14/2022 - 23:11:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:11:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:11:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:11:52: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:11:52: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:12:33: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_sand"
+L 01/14/2022 - 23:12:35: -------- Mapchange to surf_sand --------
+L 01/14/2022 - 23:12:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:12:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:12:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:12:37: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:12:37: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:14:57: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_sand"
+L 01/14/2022 - 23:14:59: -------- Mapchange to surf_sand --------
+L 01/14/2022 - 23:15:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:15:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:15:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:15:01: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:15:01: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:17:44: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_south"
+L 01/14/2022 - 23:17:46: -------- Mapchange to surf_south --------
+L 01/14/2022 - 23:17:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:17:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:17:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:17:49: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:17:49: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:18:21: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_winter_final"
+L 01/14/2022 - 23:18:23: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 23:18:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:18:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:18:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:18:26: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:18:26: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:20:41: [mapsmenu.amxx] Cmd: "MAMON<213><STEAM_0:0:1639286929><>" changelevel "surf_sand"
+L 01/14/2022 - 23:20:43: -------- Mapchange to surf_sand --------
+L 01/14/2022 - 23:20:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:20:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:20:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:20:45: [rpg_mod.amxx] missing settings for 1
+L 01/14/2022 - 23:20:45: [admin.amxx] Login: "MAMON<213><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:20:57: [rpg_mod.amxx] missing settings for 3
+L 01/14/2022 - 23:20:57: [admin.amxx] Login: "MAMON<324><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:21:00: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:21:00: [admin.amxx] Login: "MAMON<328><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:21:23: [mapsmenu.amxx] Cmd: "MAMON<328><STEAM_0:0:1639286929><>" changelevel "surf_0newage"
+L 01/14/2022 - 23:21:25: -------- Mapchange to surf_0newage --------
+L 01/14/2022 - 23:21:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:21:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:21:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:21:27: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:21:27: [admin.amxx] Login: "MAMON<328><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:21:43: [mapsmenu.amxx] Cmd: "MAMON<328><STEAM_0:0:1639286929><>" changelevel "surf_sand"
+L 01/14/2022 - 23:21:45: -------- Mapchange to surf_sand --------
+L 01/14/2022 - 23:21:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:21:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:21:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:21:47: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:21:47: [admin.amxx] Login: "MAMON<328><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:22:25: [mapsmenu.amxx] Cmd: "MAMON<328><STEAM_0:0:1639286929><>" changelevel "surf_winter_final"
+L 01/14/2022 - 23:22:27: -------- Mapchange to surf_winter_final --------
+L 01/14/2022 - 23:22:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:22:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:22:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:22:30: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:22:30: [admin.amxx] Login: "MAMON<328><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:23:17: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:23:17: [admin.amxx] Login: "MAMON<462><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:24:19: [mapsmenu.amxx] Cmd: "MAMON<462><STEAM_0:0:1639286929><>" changelevel "surf_dark_day"
+L 01/14/2022 - 23:24:21: -------- Mapchange to surf_dark_day --------
+L 01/14/2022 - 23:24:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:24:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:24:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:24:23: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:24:23: [admin.amxx] Login: "MAMON<462><STEAM_0:0:1639286929><>" became an admin (account "MAMON") (access "abcdefghijklmnopqrstuv") (address "25.46.137.237")
+L 01/14/2022 - 23:28:28: [rpg_mod.amxx] missing settings for 5
+L 01/14/2022 - 23:28:28: [admin.amxx] Login: "MAMON<496><STEAM_0:0:1639286929><>" kicked due to invalid password (account "MAMON") (address "25.46.137.237")
+L 01/14/2022 - 23:42:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/14/2022 - 23:42:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be surf_2kill
+L 01/14/2022 - 23:44:54: -------- Mapchange to surf_2kill --------
+L 01/14/2022 - 23:44:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:44:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt
+L 01/14/2022 - 23:44:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\gold_weapons.txt

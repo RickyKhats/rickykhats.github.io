@@ -1,0 +1,13 @@
+[en]
+IR_GOOD = [Stats] You have advanced %i place(s)!
+IR_BAD = [Stats] You have gone down %i place(s)!
+IR_RANK = [Stats] Your rank is %i of %i with %i kill(s), %i death(s), %i hit(s), %0.2f% skill and %0.2f%% acc.
+IR_ENABLE = [Stats] You have enabled messages
+IR_DISABLE = [Stats] You have disabled messages
+
+[ru]
+IR_GOOD = [Статистика] Вы поднялись на %i позиций!
+IR_BAD = [Статистика] Вы опустились на %i позиций!
+IR_RANK = [Статистика] Вы на %i месте из %i (%i убил, %i смертей, %i попал, %0.2f% эфф, %0.2f%% акк)
+IR_ENABLE = [Статистика] Сообщения включены
+IR_DISABLE = [Статистика] Сообщения выключены

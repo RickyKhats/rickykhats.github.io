@@ -1,0 +1,5 @@
+L 01/03/2022 - 01:53:59: Start of error session.
+L 01/03/2022 - 01:53:59: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20220103.log")
+L 01/03/2022 - 01:53:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/03/2022 - 01:53:59: [AMXX] Run time error 3: stack error 
+L 01/03/2022 - 01:53:59: [AMXX]    [0] main.class::rpg_help_motd (line 103)

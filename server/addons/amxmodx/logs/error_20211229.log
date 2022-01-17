@@ -1,0 +1,29 @@
+L 12/29/2021 - 00:39:20: Start of error session.
+L 12/29/2021 - 00:39:20: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20211229.log")
+L 12/29/2021 - 00:39:20: Player 1 is not in game.
+L 12/29/2021 - 00:39:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/29/2021 - 00:39:20: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/29/2021 - 00:39:20: [AMXX]    [0] menu.class::main_menu_function (line 160)
+L 12/29/2021 - 00:39:20: [AMXX]    [1] menu.class::view_menu_handle (line 165)
+L 12/29/2021 - 15:18:07: Start of error session.
+L 12/29/2021 - 15:18:07: Info (map "as_oilrig") (file "addons/amxmodx/logs/error_20211229.log")
+L 12/29/2021 - 15:18:07: Function "checkModel" was not found
+L 12/29/2021 - 15:18:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/29/2021 - 15:18:07: [AMXX] Run time error 19: function not found 
+L 12/29/2021 - 15:18:07: [AMXX]    [0] scarface_system.sma::plugin_init (line 82)
+L 12/29/2021 - 15:18:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/29/2021 - 15:18:47: [AMXX] Run time error 4: index out of bounds 
+L 12/29/2021 - 15:18:47: [AMXX]    [0] menu.class::gold_magazine_function (line 516)
+L 12/29/2021 - 15:18:47: [AMXX]    [1] menu.class::vip_menu_handle (line 366)
+L 12/29/2021 - 15:22:09: Start of error session.
+L 12/29/2021 - 15:22:09: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211229.log")
+L 12/29/2021 - 15:22:09: Function "checkModel" was not found
+L 12/29/2021 - 15:22:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/29/2021 - 15:22:09: [AMXX] Run time error 19: function not found 
+L 12/29/2021 - 15:22:09: [AMXX]    [0] scarface_system.sma::plugin_init (line 82)
+L 12/29/2021 - 15:26:49: Start of error session.
+L 12/29/2021 - 15:26:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211229.log")
+L 12/29/2021 - 15:26:49: Function "checkModel" was not found
+L 12/29/2021 - 15:26:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/29/2021 - 15:26:49: [AMXX] Run time error 19: function not found 
+L 12/29/2021 - 15:26:49: [AMXX]    [0] scarface_system.sma::plugin_init (line 82)

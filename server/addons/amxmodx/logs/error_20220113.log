@@ -1,0 +1,11 @@
+L 01/13/2022 - 17:24:06: Start of error session.
+L 01/13/2022 - 17:24:06: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220113.log")
+L 01/13/2022 - 17:24:06: [AMXX] Plugin ("ak47_gold.amxx") is setting itself as failed.
+L 01/13/2022 - 17:24:06: [AMXX] Plugin says: Golden AK-47 Config File Not Found!
+L 01/13/2022 - 17:24:06: [AMXX] Run time error 1 (plugin "ak47_gold.amxx") - forced exit
+L 01/13/2022 - 17:24:06: [AMXX] Plugin ("deagle_gold.amxx") is setting itself as failed.
+L 01/13/2022 - 17:24:06: [AMXX] Plugin says: Golden Deagle Config File Not Found!
+L 01/13/2022 - 17:24:06: [AMXX] Run time error 1 (plugin "deagle_gold.amxx") - forced exit
+L 01/13/2022 - 17:24:06: [AMXX] Plugin ("m4a1_gold.amxx") is setting itself as failed.
+L 01/13/2022 - 17:24:06: [AMXX] Plugin says: Golden M4A1 Config File Not Found!
+L 01/13/2022 - 17:24:06: [AMXX] Run time error 1 (plugin "m4a1_gold.amxx") - forced exit

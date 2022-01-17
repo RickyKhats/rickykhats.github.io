@@ -1,0 +1,15 @@
+L 12/21/2021 - 20:14:47: Start of error session.
+L 12/21/2021 - 20:14:47: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211221.log")
+L 12/21/2021 - 20:14:47: [AMXX] Load error 17 (invalid file format or version) (plugin "ak47_gold.amxx")
+L 12/21/2021 - 20:14:47: [AMXX] Load error 17 (invalid file format or version) (plugin "deagle_gold.amxx")
+L 12/21/2021 - 20:14:47: [AMXX] Load error 17 (invalid file format or version) (plugin "m4a1_gold.amxx")
+L 12/21/2021 - 20:14:47: [AMXX] Load error 17 (invalid file format or version) (plugin "rpg_mod.amxx")
+L 12/21/2021 - 20:14:47: [AMXX] Load error 17 (invalid file format or version) (plugin "sc_system.amxx")
+L 12/21/2021 - 22:30:09: Start of error session.
+L 12/21/2021 - 22:30:09: Info (map "cs_estate") (file "addons/amxmodx/logs/error_20211221.log")
+L 12/21/2021 - 22:30:09: [CSTRIKE] Invalid weapon id 16
+L 12/21/2021 - 22:30:09: [AMXX] Run time error 10 (plugin "deagle_gold.amxx") (native "cs_get_user_bpammo") - debug not enabled!
+L 12/21/2021 - 22:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/21/2021 - 22:30:09: Unhandled dynamic native error
+L 12/21/2021 - 22:30:09: [AMXX] Run time error 10 (plugin "sc_system.amxx") (native "give_deagle_gold") - debug not enabled!
+L 12/21/2021 - 22:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

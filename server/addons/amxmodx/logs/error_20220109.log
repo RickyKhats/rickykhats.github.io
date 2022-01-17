@@ -1,0 +1,15 @@
+L 01/09/2022 - 00:34:25: Start of error session.
+L 01/09/2022 - 00:34:25: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220109.log")
+L 01/09/2022 - 00:34:25: [AMXX] Plugin ("custom_models.amxx") is setting itself as failed.
+L 01/09/2022 - 00:34:25: [AMXX] Plugin says: File 'addons/amxmodx/configs/custom_models.ini' incorrect!
+L 01/09/2022 - 00:34:25: [AMXX] Run time error 1 (plugin "custom_models.amxx") - forced exit
+L 01/09/2022 - 00:36:26: Start of error session.
+L 01/09/2022 - 00:36:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20220109.log")
+L 01/09/2022 - 00:36:26: [AMXX] Plugin ("custom_models.amxx") is setting itself as failed.
+L 01/09/2022 - 00:36:26: [AMXX] Plugin says: File 'addons/amxmodx/configs/custom_models.ini' incorrect!
+L 01/09/2022 - 00:36:26: [AMXX] Run time error 1 (plugin "custom_models.amxx") - forced exit
+L 01/09/2022 - 00:36:42: Start of error session.
+L 01/09/2022 - 00:36:42: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20220109.log")
+L 01/09/2022 - 00:36:42: [AMXX] Plugin ("custom_models.amxx") is setting itself as failed.
+L 01/09/2022 - 00:36:42: [AMXX] Plugin says: File 'addons/amxmodx/configs/custom_models.ini' incorrect!
+L 01/09/2022 - 00:36:42: [AMXX] Run time error 1 (plugin "custom_models.amxx") - forced exit

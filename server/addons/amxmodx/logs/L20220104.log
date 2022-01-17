@@ -1,0 +1,280 @@
+L 01/04/2022 - 11:02:07: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/04/2022 - 11:02:08: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/04/2022 - 11:02:08: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/04/2022 - 11:02:09: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:02:09: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/04/2022 - 11:02:09: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/04/2022 - 11:02:09: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/04/2022 - 11:02:09: [CSTRIKE] sv global variable is not available
+L 01/04/2022 - 11:02:20: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:02:42: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:04:12: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:04:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:04:39: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:04:40: [admin.amxx] Login: "Ricky_Khats<5><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:04:55: [admin.amxx] Login: "Ricky_Khats<5><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:08:49: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:08:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:09:17: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:09:17: [admin.amxx] Login: "Ricky_Khats<9><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:09:38: [admin.amxx] Login: "Ricky_Khats<9><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:28:11: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2022 - 11:28:26: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 01/04/2022 - 11:36:29: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:36:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:36:58: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:36:58: [admin.amxx] Login: "Ricky_Khats<13><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:37:01: [admin.amxx] Login: "Ricky_Khats<13><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:38:05: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:38:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:38:28: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:38:28: [admin.amxx] Login: "Ricky_Khats<17><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:38:30: [admin.amxx] Login: "Ricky_Khats<17><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:48:54: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:48:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:49:24: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:49:24: [admin.amxx] Login: "Ricky_Khats<21><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:49:27: [admin.amxx] Login: "Ricky_Khats<21><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:53:21: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:53:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:53:47: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:53:47: [admin.amxx] Login: "Ricky_Khats<25><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:53:50: [admin.amxx] Login: "Ricky_Khats<25><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:57:56: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 11:57:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 11:58:18: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 11:58:18: [admin.amxx] Login: "Ricky_Khats<29><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 11:58:19: [admin.amxx] Login: "Ricky_Khats<29><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:13:08: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 12:13:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:13:30: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:13:30: [admin.amxx] Login: "Ricky_Khats<33><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:13:30: [admin.amxx] Login: "Ricky_Khats<33><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:14:36: -------- Mapchange to de_dust2 --------
+L 01/04/2022 - 12:14:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:14:58: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:14:58: [admin.amxx] Login: "Ricky_Khats<37><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:14:59: [admin.amxx] Login: "Ricky_Khats<37><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:16:35: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:16:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:16:56: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:16:56: [admin.amxx] Login: "Ricky_Khats<41><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:16:58: [admin.amxx] Login: "Ricky_Khats<41><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:17:00: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:17:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:17:22: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:17:22: [admin.amxx] Login: "Ricky_Khats<43><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:17:23: [admin.amxx] Login: "Ricky_Khats<43><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:20:04: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:20:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:20:26: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:20:26: [admin.amxx] Login: "Ricky_Khats<47><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:20:27: [admin.amxx] Login: "Ricky_Khats<47><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:22:01: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:22:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:22:23: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:22:23: [admin.amxx] Login: "Ricky_Khats<51><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:22:25: [admin.amxx] Login: "Ricky_Khats<51><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:25:44: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:25:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:26:05: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:26:06: [admin.amxx] Login: "Ricky_Khats<55><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:26:07: [admin.amxx] Login: "Ricky_Khats<55><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:33:23: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:33:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:33:45: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:33:45: [admin.amxx] Login: "Ricky_Khats<59><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:33:46: [admin.amxx] Login: "Ricky_Khats<59><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:38:28: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:38:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:38:50: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:38:50: [admin.amxx] Login: "Ricky_Khats<63><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:38:50: [admin.amxx] Login: "Ricky_Khats<63><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:40:23: -------- Mapchange to surf_ski_2 --------
+L 01/04/2022 - 12:40:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:40:45: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:40:45: [admin.amxx] Login: "Ricky_Khats<67><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:40:46: [admin.amxx] Login: "Ricky_Khats<67><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:44:13: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/04/2022 - 12:44:14: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/04/2022 - 12:44:14: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/04/2022 - 12:44:14: -------- Mapchange to surf_green --------
+L 01/04/2022 - 12:44:14: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/04/2022 - 12:44:14: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/04/2022 - 12:44:14: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/04/2022 - 12:44:14: [CSTRIKE] sv global variable is not available
+L 01/04/2022 - 12:44:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:44:40: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:44:40: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:44:41: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:44:44: -------- Mapchange to surf_green --------
+L 01/04/2022 - 12:44:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:45:06: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:45:06: [admin.amxx] Login: "Ricky_Khats<3><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:45:07: [admin.amxx] Login: "Ricky_Khats<3><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:50:37: -------- Mapchange to surf_green --------
+L 01/04/2022 - 12:50:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 12:50:59: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 12:50:59: [admin.amxx] Login: "Ricky_Khats<24><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:51:00: [admin.amxx] Login: "Ricky_Khats<24><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 12:52:02: [rpg_mod.amxx] ADMIN Ricky_Khats used cmd [ amx_rpg_lvl @all = 50  ], affected players: 21
+L 01/04/2022 - 13:49:08: -------- Mapchange to surf_green --------
+L 01/04/2022 - 13:49:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 13:49:33: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 13:49:33: [admin.amxx] Login: "Ricky_Khats<45><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:49:35: [admin.amxx] Login: "Ricky_Khats<45><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:52:02: -------- Mapchange to surf_green --------
+L 01/04/2022 - 13:52:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 13:52:24: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 13:52:24: [admin.amxx] Login: "Ricky_Khats<66><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:52:24: [admin.amxx] Login: "Ricky_Khats<66><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:57:19: -------- Mapchange to surf_green --------
+L 01/04/2022 - 13:57:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 13:57:40: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 13:57:40: [admin.amxx] Login: "Ricky_Khats<87><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:57:41: [admin.amxx] Login: "Ricky_Khats<87><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:58:22: -------- Mapchange to surf_green --------
+L 01/04/2022 - 13:58:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 13:58:44: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 13:58:44: [admin.amxx] Login: "Ricky_Khats<108><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 13:58:45: [admin.amxx] Login: "Ricky_Khats<108><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:15:28: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/04/2022 - 16:15:29: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/04/2022 - 16:15:29: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/04/2022 - 16:15:30: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:15:30: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/04/2022 - 16:15:30: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/04/2022 - 16:15:30: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/04/2022 - 16:15:30: [CSTRIKE] sv global variable is not available
+L 01/04/2022 - 16:16:03: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:16:03: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:16:05: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:18:02: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:18:24: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:18:24: [admin.amxx] Login: "Ricky_Khats<22><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:18:25: [admin.amxx] Login: "Ricky_Khats<22><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:19:09: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:19:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:19:31: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:19:31: [admin.amxx] Login: "Ricky_Khats<43><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:19:32: [admin.amxx] Login: "Ricky_Khats<43><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:25:20: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:25:20: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:25:41: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:25:41: [admin.amxx] Login: "Ricky_Khats<64><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:25:42: [admin.amxx] Login: "Ricky_Khats<64><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:35:14: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:35:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:35:36: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:35:36: [admin.amxx] Login: "Ricky_Khats<85><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:35:37: [admin.amxx] Login: "Ricky_Khats<85><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:37:14: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:37:36: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:37:36: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:37:37: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:48:56: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:48:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:49:18: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:49:18: [admin.amxx] Login: "Ricky_Khats<127><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:49:20: [admin.amxx] Login: "Ricky_Khats<127><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:51:25: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:51:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:51:47: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:51:47: [admin.amxx] Login: "Ricky_Khats<148><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:51:48: [admin.amxx] Login: "Ricky_Khats<148><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:53:55: -------- Mapchange to surf_green --------
+L 01/04/2022 - 16:53:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 16:54:17: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 16:54:17: [admin.amxx] Login: "Ricky_Khats<169><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 16:54:18: [admin.amxx] Login: "Ricky_Khats<169><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:00:23: -------- Mapchange to surf_green --------
+L 01/04/2022 - 17:00:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 17:00:45: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 17:00:45: [admin.amxx] Login: "Ricky_Khats<190><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:00:46: [admin.amxx] Login: "Ricky_Khats<190><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:04:10: -------- Mapchange to surf_green --------
+L 01/04/2022 - 17:04:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 17:04:31: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 17:04:31: [admin.amxx] Login: "Ricky_Khats<211><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:04:32: [admin.amxx] Login: "Ricky_Khats<211><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:05:27: -------- Mapchange to surf_green --------
+L 01/04/2022 - 17:05:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 17:05:48: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 17:05:49: [admin.amxx] Login: "Ricky_Khats<232><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:05:49: [admin.amxx] Login: "Ricky_Khats<232><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:07:52: -------- Mapchange to surf_green --------
+L 01/04/2022 - 17:07:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 17:08:14: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 17:08:14: [admin.amxx] Login: "Ricky_Khats<253><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:08:15: [admin.amxx] Login: "Ricky_Khats<253><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:13:02: -------- Mapchange to surf_green --------
+L 01/04/2022 - 17:13:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 17:13:23: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 17:13:23: [admin.amxx] Login: "Ricky_Khats<274><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:13:24: [admin.amxx] Login: "Ricky_Khats<274><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:31:28: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2022 - 17:31:43: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_backalley
+L 01/04/2022 - 17:41:16: -------- Mapchange to surf_green --------
+L 01/04/2022 - 17:41:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 17:41:41: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 17:41:41: [admin.amxx] Login: "Ricky_Khats<295><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 17:41:45: [admin.amxx] Login: "Ricky_Khats<295><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:21:36: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/04/2022 - 19:21:37: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/04/2022 - 19:21:37: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/04/2022 - 19:21:38: -------- Mapchange to surf_green --------
+L 01/04/2022 - 19:21:38: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/04/2022 - 19:21:38: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/04/2022 - 19:21:38: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/04/2022 - 19:21:38: [CSTRIKE] sv global variable is not available
+L 01/04/2022 - 19:21:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 19:22:08: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 19:22:08: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:22:11: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:30:21: -------- Mapchange to surf_green --------
+L 01/04/2022 - 19:30:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 19:30:43: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 19:30:43: [admin.amxx] Login: "Ricky_Khats<22><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:30:46: [admin.amxx] Login: "Ricky_Khats<22><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:38:29: -------- Mapchange to surf_green --------
+L 01/04/2022 - 19:38:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 19:38:54: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 19:38:54: [admin.amxx] Login: "Ricky_Khats<43><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:38:57: [admin.amxx] Login: "Ricky_Khats<43><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:42:58: -------- Mapchange to surf_green --------
+L 01/04/2022 - 19:42:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 19:43:19: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 19:43:19: [admin.amxx] Login: "Ricky_Khats<64><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 19:43:20: [admin.amxx] Login: "Ricky_Khats<64><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 20:01:02: -------- Mapchange to surf_green --------
+L 01/04/2022 - 20:01:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 20:01:27: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 20:01:27: [admin.amxx] Login: "Ricky_Khats<85><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 20:01:28: [admin.amxx] Login: "Ricky_Khats<85><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 20:10:21: -------- Mapchange to surf_green --------
+L 01/04/2022 - 20:10:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 20:10:42: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/04/2022 - 20:10:42: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 20:10:43: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 20:28:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2022 - 20:29:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 01/04/2022 - 20:54:07: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2022 - 20:54:22: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 01/04/2022 - 20:56:27: -------- Mapchange to cs_siege --------
+L 01/04/2022 - 20:56:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 20:56:32: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 20:57:32: [rpg_mod.amxx] SQL Error: Lost connection to MySQL server at 'waiting for initial communication packet', system error: 0 (2013)
+L 01/04/2022 - 20:57:36: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 21:15:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2022 - 21:15:56: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 01/04/2022 - 21:20:00: -------- Mapchange to de_cbble --------
+L 01/04/2022 - 21:20:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 21:20:06: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 21:21:06: [rpg_mod.amxx] SQL Error: Lost connection to MySQL server at 'waiting for initial communication packet', system error: 0 (2013)
+L 01/04/2022 - 21:21:09: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/04/2022 - 21:39:23: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/04/2022 - 21:39:39: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/04/2022 - 21:43:39: -------- Mapchange to de_dust --------
+L 01/04/2022 - 21:43:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/04/2022 - 21:43:45: [admin.amxx] Login: "Ricky_Khats<106><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")

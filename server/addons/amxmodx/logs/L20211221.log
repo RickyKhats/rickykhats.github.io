@@ -1,0 +1,95 @@
+L 12/21/2021 - 20:14:47: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:16:21: [AMXX] Could not free plugin memory, failure 487.
+L 12/21/2021 - 20:16:21: [AMXX] Could not free plugin memory, failure 487.
+L 12/21/2021 - 20:16:21: [AMXX] Could not free plugin memory, failure 487.
+L 12/21/2021 - 20:16:21: [AMXX] Could not free plugin memory, failure 487.
+L 12/21/2021 - 20:16:21: [AMXX] Could not free plugin memory, failure 487.
+L 12/21/2021 - 20:16:50: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 12/21/2021 - 20:16:50: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/21/2021 - 20:16:50: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:16:54: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:16:56: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:17:41: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:17:41: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/21/2021 - 20:17:41: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/21/2021 - 20:17:41: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/21/2021 - 20:17:41: [CSTRIKE] sv global variable is not available
+L 12/21/2021 - 20:17:41: [AMXX] Plugin "sc_system.amxx" failed to load: Plugin uses an unknown function (name "ct_add_to_msg") - check your modules.ini.
+L 12/21/2021 - 20:18:05: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 20:18:05: [rpg_mod.amxx] missing settings for 1
+L 12/21/2021 - 20:18:05: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<11><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:18:07: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<11><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:22:24: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:22:24: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/21/2021 - 20:22:24: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/21/2021 - 20:22:48: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 20:22:48: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<12><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:22:51: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<12><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:22:59: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:22:59: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/21/2021 - 20:23:21: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 20:23:21: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<13><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:23:21: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<13><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:24:18: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:24:18: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/21/2021 - 20:24:40: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 20:24:40: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<23><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:24:41: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<23><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:28:43: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 20:29:05: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 20:29:05: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<24><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:29:06: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<24><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:47:13: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/21/2021 - 20:47:28: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 12/21/2021 - 20:49:47: -------- Mapchange to cs_siege --------
+L 12/21/2021 - 20:49:54: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<24><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 20:50:15: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 20:50:17: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<24><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:08:13: -------- Mapchange to cs_siege --------
+L 12/21/2021 - 21:08:42: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 21:08:42: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<43><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:08:44: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<43><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:26:55: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/21/2021 - 21:27:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/21/2021 - 21:29:20: -------- Mapchange to de_dust --------
+L 12/21/2021 - 21:29:26: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<43><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:29:47: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 21:29:49: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<43><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:35:40: -------- Mapchange to de_dust --------
+L 12/21/2021 - 21:36:01: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 21:36:01: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<53><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:36:02: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<53><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:37:06: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 21:37:28: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 21:37:28: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<63><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:37:30: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<63><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:40:59: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 21:41:20: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 21:41:20: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<64><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:41:23: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<64><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:57:50: -------- Mapchange to de_dust2 --------
+L 12/21/2021 - 21:58:16: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 21:58:16: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 21:58:18: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:00:12: [rpg_mod.amxx] ADMIN I <3 CS | [B]KoHTpe used cmd [ amx_rpg_lvl @all = 10000 ], affected players: 1
+L 12/21/2021 - 22:05:59: [rpg_mod.amxx] ADMIN I <3 CS | [B]KoHTpe used cmd [ amx_rpg_lvl @all = 10000  ], affected players: 1
+L 12/21/2021 - 22:16:20: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/21/2021 - 22:16:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 12/21/2021 - 22:20:25: -------- Mapchange to cs_italy --------
+L 12/21/2021 - 22:20:34: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:20:55: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 22:21:00: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:27:32: [mapsmenu.amxx] Cmd: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" changelevel "de_piranesi"
+L 12/21/2021 - 22:27:35: -------- Mapchange to de_piranesi --------
+L 12/21/2021 - 22:27:40: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:28:01: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 22:28:08: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:29:29: [mapsmenu.amxx] Cmd: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" changelevel "cs_estate"
+L 12/21/2021 - 22:29:32: -------- Mapchange to cs_estate --------
+L 12/21/2021 - 22:29:33: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:29:54: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 22:29:55: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<65><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:35:04: -------- Mapchange to cs_estate --------
+L 12/21/2021 - 22:35:26: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 12/21/2021 - 22:35:26: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<66><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/21/2021 - 22:35:27: [admin.amxx] Login: "I <3 CS | [B]KoHTpe<66><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")

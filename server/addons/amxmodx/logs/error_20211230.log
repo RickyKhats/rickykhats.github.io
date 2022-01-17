@@ -1,0 +1,14 @@
+L 12/30/2021 - 01:32:21: Start of error session.
+L 12/30/2021 - 01:32:21: Info (map "cs_747") (file "addons/amxmodx/logs/error_20211230.log")
+L 12/30/2021 - 01:32:21: Player 1 is not in game.
+L 12/30/2021 - 01:32:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/30/2021 - 01:32:21: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/30/2021 - 01:32:21: [AMXX]    [0] menu.class::main_menu_function (line 160)
+L 12/30/2021 - 01:32:21: [AMXX]    [1] menu.class::privilege_menu_handle (line 250)
+L 12/30/2021 - 01:41:52: Start of error session.
+L 12/30/2021 - 01:41:52: Info (map "cs_747") (file "addons/amxmodx/logs/error_20211230.log")
+L 12/30/2021 - 01:41:52: Player 1 is not in game.
+L 12/30/2021 - 01:41:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/30/2021 - 01:41:52: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/30/2021 - 01:41:52: [AMXX]    [0] menu.class::main_menu_function (line 184)
+L 12/30/2021 - 01:41:52: [AMXX]    [1] menu.class::main_menu_handle (line 156)

@@ -1,0 +1,1992 @@
+L 01/07/2022 - 13:25:16: Start of error session.
+L 01/07/2022 - 13:25:16: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 13:25:16: Invalid player id 2612128
+L 01/07/2022 - 13:25:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:17: Invalid player id 2612128
+L 01/07/2022 - 13:25:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:17: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:18: Invalid player id 2612128
+L 01/07/2022 - 13:25:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:18: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:18: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:19: Invalid player id 2612128
+L 01/07/2022 - 13:25:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:19: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:20: Invalid player id 2612128
+L 01/07/2022 - 13:25:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:20: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:21: Invalid player id 2612128
+L 01/07/2022 - 13:25:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:21: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:21: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:22: Invalid player id 2612128
+L 01/07/2022 - 13:25:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:22: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:23: Invalid player id 2612128
+L 01/07/2022 - 13:25:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:23: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:23: Invalid player id 2612128
+L 01/07/2022 - 13:25:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:23: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:24: Invalid player id 2612128
+L 01/07/2022 - 13:25:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:24: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:24: Invalid player id 2612128
+L 01/07/2022 - 13:25:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:24: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:25: Invalid player id 2612128
+L 01/07/2022 - 13:25:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:25: Invalid player id 2612128
+L 01/07/2022 - 13:25:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:25: Invalid player id 2612128
+L 01/07/2022 - 13:25:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:26: Invalid player id 2612128
+L 01/07/2022 - 13:25:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:26: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:26: Invalid player id 2612128
+L 01/07/2022 - 13:25:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:26: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:27: Invalid player id 2612128
+L 01/07/2022 - 13:25:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:27: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:28: Invalid player id 2612128
+L 01/07/2022 - 13:25:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:28: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:28: Invalid player id 2612128
+L 01/07/2022 - 13:25:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:28: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:28: Invalid player id 2612128
+L 01/07/2022 - 13:25:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:28: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:29: Invalid player id 2612128
+L 01/07/2022 - 13:25:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:29: Invalid player id 2612128
+L 01/07/2022 - 13:25:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:30: Invalid player id 2612128
+L 01/07/2022 - 13:25:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:30: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:30: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:31: Invalid player id 2612128
+L 01/07/2022 - 13:25:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:31: Invalid player id 2612128
+L 01/07/2022 - 13:25:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:32: Invalid player id 2612128
+L 01/07/2022 - 13:25:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:32: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:32: Invalid player id 2612128
+L 01/07/2022 - 13:25:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:32: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:33: Invalid player id 2612128
+L 01/07/2022 - 13:25:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:33: Invalid player id 2612128
+L 01/07/2022 - 13:25:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:33: Invalid player id 2612128
+L 01/07/2022 - 13:25:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:34: Invalid player id 2612128
+L 01/07/2022 - 13:25:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:34: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:34: Invalid player id 2612128
+L 01/07/2022 - 13:25:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:34: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:35: Invalid player id 2612128
+L 01/07/2022 - 13:25:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:35: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:36: Invalid player id 2612128
+L 01/07/2022 - 13:25:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:36: Invalid player id 2612128
+L 01/07/2022 - 13:25:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:36: Invalid player id 2612128
+L 01/07/2022 - 13:25:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:37: Invalid player id 2612128
+L 01/07/2022 - 13:25:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:37: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:37: Invalid player id 2612128
+L 01/07/2022 - 13:25:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:37: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:38: Invalid player id 2612128
+L 01/07/2022 - 13:25:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:38: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:38: Invalid player id 2612128
+L 01/07/2022 - 13:25:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:38: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:39: Invalid player id 2612128
+L 01/07/2022 - 13:25:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:39: Invalid player id 2612128
+L 01/07/2022 - 13:25:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:40: Invalid player id 2612128
+L 01/07/2022 - 13:25:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:40: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:40: Invalid player id 2612128
+L 01/07/2022 - 13:25:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:40: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:41: Invalid player id 2612128
+L 01/07/2022 - 13:25:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:41: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:41: Invalid player id 2612128
+L 01/07/2022 - 13:25:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:41: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:42: Invalid player id 2612128
+L 01/07/2022 - 13:25:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:42: Invalid player id 2612128
+L 01/07/2022 - 13:25:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:43: Invalid player id 2612128
+L 01/07/2022 - 13:25:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:43: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:43: Invalid player id 2612128
+L 01/07/2022 - 13:25:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:43: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:44: Invalid player id 2612128
+L 01/07/2022 - 13:25:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:44: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:44: Invalid player id 2612128
+L 01/07/2022 - 13:25:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:44: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:45: Invalid player id 2612128
+L 01/07/2022 - 13:25:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:45: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:45: Invalid player id 2612128
+L 01/07/2022 - 13:25:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:45: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:46: Invalid player id 2612128
+L 01/07/2022 - 13:25:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:46: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:46: Invalid player id 2612128
+L 01/07/2022 - 13:25:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:46: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:47: Invalid player id 2612128
+L 01/07/2022 - 13:25:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:47: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:47: Invalid player id 2612128
+L 01/07/2022 - 13:25:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:47: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:48: Invalid player id 2612128
+L 01/07/2022 - 13:25:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:48: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:49: Invalid player id 2612128
+L 01/07/2022 - 13:25:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:49: Invalid player id 2612128
+L 01/07/2022 - 13:25:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:49: Invalid player id 2612128
+L 01/07/2022 - 13:25:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:50: Invalid player id 2612128
+L 01/07/2022 - 13:25:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:50: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:50: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:51: Invalid player id 2612128
+L 01/07/2022 - 13:25:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:51: Invalid player id 2612128
+L 01/07/2022 - 13:25:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:51: Invalid player id 2612128
+L 01/07/2022 - 13:25:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:52: Invalid player id 2612128
+L 01/07/2022 - 13:25:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:52: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:52: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:52: Invalid player id 2612128
+L 01/07/2022 - 13:25:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:52: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:52: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:53: Invalid player id 2612128
+L 01/07/2022 - 13:25:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:53: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:53: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:53: Invalid player id 2612128
+L 01/07/2022 - 13:25:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:53: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:53: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:54: Invalid player id 2612128
+L 01/07/2022 - 13:25:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:54: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:54: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:54: Invalid player id 2612128
+L 01/07/2022 - 13:25:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:54: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:54: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:55: Invalid player id 2612128
+L 01/07/2022 - 13:25:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:55: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:55: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:56: Invalid player id 2612128
+L 01/07/2022 - 13:25:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:56: Invalid player id 2612128
+L 01/07/2022 - 13:25:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:56: Invalid player id 2612128
+L 01/07/2022 - 13:25:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:57: Invalid player id 2612128
+L 01/07/2022 - 13:25:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:57: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:57: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:58: Invalid player id 2612128
+L 01/07/2022 - 13:25:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:58: Invalid player id 2612128
+L 01/07/2022 - 13:25:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:58: Invalid player id 2612128
+L 01/07/2022 - 13:25:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:59: Invalid player id 2612128
+L 01/07/2022 - 13:25:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:59: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:25:59: Invalid player id 2612128
+L 01/07/2022 - 13:25:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:25:59: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:25:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:00: Invalid player id 2612128
+L 01/07/2022 - 13:26:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:00: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:00: Invalid player id 2612128
+L 01/07/2022 - 13:26:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:00: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:01: Invalid player id 2612128
+L 01/07/2022 - 13:26:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:01: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:02: Invalid player id 2612128
+L 01/07/2022 - 13:26:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:02: Invalid player id 2612128
+L 01/07/2022 - 13:26:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:02: Invalid player id 2612128
+L 01/07/2022 - 13:26:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:03: Invalid player id 2612128
+L 01/07/2022 - 13:26:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:03: Invalid player id 2612128
+L 01/07/2022 - 13:26:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:04: Invalid player id 2612128
+L 01/07/2022 - 13:26:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:04: Invalid player id 2612128
+L 01/07/2022 - 13:26:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:05: Invalid player id 2612128
+L 01/07/2022 - 13:26:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:05: Invalid player id 2612128
+L 01/07/2022 - 13:26:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:06: Invalid player id 2612128
+L 01/07/2022 - 13:26:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:06: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:06: Invalid player id 2612128
+L 01/07/2022 - 13:26:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:06: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:07: Invalid player id 2612128
+L 01/07/2022 - 13:26:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:07: Invalid player id 2612128
+L 01/07/2022 - 13:26:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:08: Invalid player id 2612128
+L 01/07/2022 - 13:26:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:08: Invalid player id 2612128
+L 01/07/2022 - 13:26:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:09: Invalid player id 2612128
+L 01/07/2022 - 13:26:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:09: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:09: Invalid player id 2612128
+L 01/07/2022 - 13:26:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:09: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:10: Invalid player id 2612128
+L 01/07/2022 - 13:26:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:10: Invalid player id 2612128
+L 01/07/2022 - 13:26:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:11: Invalid player id 2612128
+L 01/07/2022 - 13:26:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:11: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:11: Invalid player id 2612128
+L 01/07/2022 - 13:26:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:11: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:12: Invalid player id 2612128
+L 01/07/2022 - 13:26:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:12: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:12: Invalid player id 2612128
+L 01/07/2022 - 13:26:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:12: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:13: Invalid player id 2612128
+L 01/07/2022 - 13:26:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:13: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:13: Invalid player id 2612128
+L 01/07/2022 - 13:26:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:13: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:14: Invalid player id 2612128
+L 01/07/2022 - 13:26:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:14: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:14: Invalid player id 2612128
+L 01/07/2022 - 13:26:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:14: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:15: Invalid player id 2612128
+L 01/07/2022 - 13:26:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:15: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:16: Invalid player id 2612128
+L 01/07/2022 - 13:26:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:16: Invalid player id 2612128
+L 01/07/2022 - 13:26:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:17: Invalid player id 2612128
+L 01/07/2022 - 13:26:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:17: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:17: Invalid player id 2612128
+L 01/07/2022 - 13:26:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:17: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:17: Invalid player id 2612128
+L 01/07/2022 - 13:26:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:17: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:18: Invalid player id 2612128
+L 01/07/2022 - 13:26:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:18: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:18: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:19: Invalid player id 2612128
+L 01/07/2022 - 13:26:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:19: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:19: Invalid player id 2612128
+L 01/07/2022 - 13:26:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:19: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:19: Invalid player id 2612128
+L 01/07/2022 - 13:26:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:19: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:20: Invalid player id 2612128
+L 01/07/2022 - 13:26:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:20: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:20: Invalid player id 2612128
+L 01/07/2022 - 13:26:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:20: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:21: Invalid player id 2612128
+L 01/07/2022 - 13:26:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:21: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:21: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:22: Invalid player id 2612128
+L 01/07/2022 - 13:26:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:22: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:22: Invalid player id 2612128
+L 01/07/2022 - 13:26:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:22: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:22: Invalid player id 2612128
+L 01/07/2022 - 13:26:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:22: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:23: Invalid player id 2612128
+L 01/07/2022 - 13:26:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:23: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:23: Invalid player id 2612128
+L 01/07/2022 - 13:26:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:23: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:24: Invalid player id 2612128
+L 01/07/2022 - 13:26:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:24: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:24: Invalid player id 2612128
+L 01/07/2022 - 13:26:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:24: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:25: Invalid player id 2612128
+L 01/07/2022 - 13:26:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:25: Invalid player id 2612128
+L 01/07/2022 - 13:26:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:26: Invalid player id 2612128
+L 01/07/2022 - 13:26:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:26: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:26: Invalid player id 2612128
+L 01/07/2022 - 13:26:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:26: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:27: Invalid player id 2612128
+L 01/07/2022 - 13:26:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:27: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:27: Invalid player id 2612128
+L 01/07/2022 - 13:26:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:27: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:28: Invalid player id 2612128
+L 01/07/2022 - 13:26:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:28: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:29: Invalid player id 2612128
+L 01/07/2022 - 13:26:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:29: Invalid player id 2612128
+L 01/07/2022 - 13:26:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:29: Invalid player id 2612128
+L 01/07/2022 - 13:26:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:30: Invalid player id 2612128
+L 01/07/2022 - 13:26:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:30: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:30: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:31: Invalid player id 2612128
+L 01/07/2022 - 13:26:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:31: Invalid player id 2612128
+L 01/07/2022 - 13:26:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:31: Invalid player id 2612128
+L 01/07/2022 - 13:26:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:32: Invalid player id 2612128
+L 01/07/2022 - 13:26:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:32: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:33: Invalid player id 2612128
+L 01/07/2022 - 13:26:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:33: Invalid player id 2612128
+L 01/07/2022 - 13:26:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:33: Invalid player id 2612128
+L 01/07/2022 - 13:26:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:34: Invalid player id 2612128
+L 01/07/2022 - 13:26:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:34: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:35: Invalid player id 2612128
+L 01/07/2022 - 13:26:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:35: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:35: Invalid player id 2612128
+L 01/07/2022 - 13:26:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:35: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:36: Invalid player id 2612128
+L 01/07/2022 - 13:26:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:36: Invalid player id 2612128
+L 01/07/2022 - 13:26:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:36: Invalid player id 2612128
+L 01/07/2022 - 13:26:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:37: Invalid player id 2612128
+L 01/07/2022 - 13:26:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:37: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:37: Invalid player id 2612128
+L 01/07/2022 - 13:26:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:37: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:38: Invalid player id 2612128
+L 01/07/2022 - 13:26:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:38: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:39: Invalid player id 2612128
+L 01/07/2022 - 13:26:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:39: Invalid player id 2612128
+L 01/07/2022 - 13:26:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:39: Invalid player id 2612128
+L 01/07/2022 - 13:26:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:40: Invalid player id 2612128
+L 01/07/2022 - 13:26:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:40: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:40: Invalid player id 2612128
+L 01/07/2022 - 13:26:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:40: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:41: Invalid player id 2612128
+L 01/07/2022 - 13:26:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:41: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:42: Invalid player id 2612128
+L 01/07/2022 - 13:26:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:42: Invalid player id 2612128
+L 01/07/2022 - 13:26:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:42: Invalid player id 2612128
+L 01/07/2022 - 13:26:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:43: Invalid player id 2612128
+L 01/07/2022 - 13:26:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:43: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:43: Invalid player id 2612128
+L 01/07/2022 - 13:26:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:43: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:44: Invalid player id 2612128
+L 01/07/2022 - 13:26:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:44: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:44: Invalid player id 2612128
+L 01/07/2022 - 13:26:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:44: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:45: Invalid player id 2612128
+L 01/07/2022 - 13:26:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:45: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:45: Invalid player id 2612128
+L 01/07/2022 - 13:26:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:45: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:46: Invalid player id 2612128
+L 01/07/2022 - 13:26:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:46: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:47: Invalid player id 2612128
+L 01/07/2022 - 13:26:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:47: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:47: Invalid player id 2612128
+L 01/07/2022 - 13:26:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:47: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:48: Invalid player id 2612128
+L 01/07/2022 - 13:26:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:48: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:48: Invalid player id 2612128
+L 01/07/2022 - 13:26:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:48: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:49: Invalid player id 2612128
+L 01/07/2022 - 13:26:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:49: Invalid player id 2612128
+L 01/07/2022 - 13:26:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:50: Invalid player id 2612128
+L 01/07/2022 - 13:26:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:50: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:50: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:50: Invalid player id 2612128
+L 01/07/2022 - 13:26:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:50: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:50: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:51: Invalid player id 2612128
+L 01/07/2022 - 13:26:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:51: Invalid player id 2612128
+L 01/07/2022 - 13:26:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:52: Invalid player id 2612128
+L 01/07/2022 - 13:26:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:52: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:52: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:52: Invalid player id 2612128
+L 01/07/2022 - 13:26:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:52: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:52: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:53: Invalid player id 2612128
+L 01/07/2022 - 13:26:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:53: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:53: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:53: Invalid player id 2612128
+L 01/07/2022 - 13:26:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:53: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:53: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:54: Invalid player id 2612128
+L 01/07/2022 - 13:26:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:54: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:54: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:54: Invalid player id 2612128
+L 01/07/2022 - 13:26:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:54: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:54: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:55: Invalid player id 2612128
+L 01/07/2022 - 13:26:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:55: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:55: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:55: Invalid player id 2612128
+L 01/07/2022 - 13:26:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:55: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:55: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:56: Invalid player id 2612128
+L 01/07/2022 - 13:26:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:56: Invalid player id 2612128
+L 01/07/2022 - 13:26:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:57: Invalid player id 2612128
+L 01/07/2022 - 13:26:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:57: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:57: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:57: Invalid player id 2612128
+L 01/07/2022 - 13:26:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:57: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:57: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:58: Invalid player id 2612128
+L 01/07/2022 - 13:26:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:58: Invalid player id 2612128
+L 01/07/2022 - 13:26:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:59: Invalid player id 2612128
+L 01/07/2022 - 13:26:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:59: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:26:59: Invalid player id 2612128
+L 01/07/2022 - 13:26:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:26:59: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:26:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:00: Invalid player id 2612128
+L 01/07/2022 - 13:27:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:00: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:00: Invalid player id 2612128
+L 01/07/2022 - 13:27:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:00: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:01: Invalid player id 2612128
+L 01/07/2022 - 13:27:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:01: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:01: Invalid player id 2612128
+L 01/07/2022 - 13:27:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:01: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:02: Invalid player id 2612128
+L 01/07/2022 - 13:27:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:02: Invalid player id 2612128
+L 01/07/2022 - 13:27:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:03: Invalid player id 2612128
+L 01/07/2022 - 13:27:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:03: Invalid player id 2612128
+L 01/07/2022 - 13:27:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:04: Invalid player id 2612128
+L 01/07/2022 - 13:27:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:04: Invalid player id 2612128
+L 01/07/2022 - 13:27:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:05: Invalid player id 2612128
+L 01/07/2022 - 13:27:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:05: Invalid player id 2612128
+L 01/07/2022 - 13:27:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:06: Invalid player id 2612128
+L 01/07/2022 - 13:27:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:06: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:06: Invalid player id 2612128
+L 01/07/2022 - 13:27:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:06: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:07: Invalid player id 2612128
+L 01/07/2022 - 13:27:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:07: Invalid player id 2612128
+L 01/07/2022 - 13:27:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:08: Invalid player id 2612128
+L 01/07/2022 - 13:27:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:08: Invalid player id 2612128
+L 01/07/2022 - 13:27:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:09: Invalid player id 2612128
+L 01/07/2022 - 13:27:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:09: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:09: Invalid player id 2612128
+L 01/07/2022 - 13:27:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:09: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:10: Invalid player id 2612128
+L 01/07/2022 - 13:27:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:10: Invalid player id 2612128
+L 01/07/2022 - 13:27:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:11: Invalid player id 2612128
+L 01/07/2022 - 13:27:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:11: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:11: Invalid player id 2612128
+L 01/07/2022 - 13:27:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:11: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:12: Invalid player id 2612128
+L 01/07/2022 - 13:27:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:12: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:12: Invalid player id 2612128
+L 01/07/2022 - 13:27:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:12: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:13: Invalid player id 2612128
+L 01/07/2022 - 13:27:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:13: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:13: Invalid player id 2612128
+L 01/07/2022 - 13:27:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:13: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:14: Invalid player id 2612128
+L 01/07/2022 - 13:27:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:14: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:14: Invalid player id 2612128
+L 01/07/2022 - 13:27:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:14: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:15: Invalid player id 2612128
+L 01/07/2022 - 13:27:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:15: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:15: Invalid player id 2612128
+L 01/07/2022 - 13:27:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:15: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:16: Invalid player id 2612128
+L 01/07/2022 - 13:27:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:16: Invalid player id 2612128
+L 01/07/2022 - 13:27:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:17: Invalid player id 2612128
+L 01/07/2022 - 13:27:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:17: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:17: Invalid player id 2612128
+L 01/07/2022 - 13:27:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:17: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:18: Invalid player id 2612128
+L 01/07/2022 - 13:27:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:18: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:18: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:18: Invalid player id 2612128
+L 01/07/2022 - 13:27:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:18: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:18: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:19: Invalid player id 2612128
+L 01/07/2022 - 13:27:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:19: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:19: Invalid player id 2612128
+L 01/07/2022 - 13:27:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:19: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:20: Invalid player id 2612128
+L 01/07/2022 - 13:27:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:20: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:20: Invalid player id 2612128
+L 01/07/2022 - 13:27:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:20: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:21: Invalid player id 2612128
+L 01/07/2022 - 13:27:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:21: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:21: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:21: Invalid player id 2612128
+L 01/07/2022 - 13:27:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:21: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:21: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:22: Invalid player id 2612128
+L 01/07/2022 - 13:27:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:22: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:22: Invalid player id 2612128
+L 01/07/2022 - 13:27:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:22: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:23: Invalid player id 2612128
+L 01/07/2022 - 13:27:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:23: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:23: Invalid player id 2612128
+L 01/07/2022 - 13:27:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:23: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:24: Invalid player id 2612128
+L 01/07/2022 - 13:27:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:24: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:24: Invalid player id 2612128
+L 01/07/2022 - 13:27:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:24: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:25: Invalid player id 2612128
+L 01/07/2022 - 13:27:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:25: Invalid player id 2612128
+L 01/07/2022 - 13:27:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:25: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:26: Invalid player id 2612128
+L 01/07/2022 - 13:27:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:26: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:26: Invalid player id 2612128
+L 01/07/2022 - 13:27:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:26: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:27: Invalid player id 2612128
+L 01/07/2022 - 13:27:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:27: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:27: Invalid player id 2612128
+L 01/07/2022 - 13:27:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:27: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:28: Invalid player id 2612128
+L 01/07/2022 - 13:27:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:28: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:28: Invalid player id 2612128
+L 01/07/2022 - 13:27:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:28: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:29: Invalid player id 2612128
+L 01/07/2022 - 13:27:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:29: Invalid player id 2612128
+L 01/07/2022 - 13:27:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:29: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:30: Invalid player id 2612128
+L 01/07/2022 - 13:27:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:30: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:30: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:30: Invalid player id 2612128
+L 01/07/2022 - 13:27:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:30: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:30: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:31: Invalid player id 2612128
+L 01/07/2022 - 13:27:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:31: Invalid player id 2612128
+L 01/07/2022 - 13:27:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:31: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:32: Invalid player id 2612128
+L 01/07/2022 - 13:27:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:32: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:32: Invalid player id 2612128
+L 01/07/2022 - 13:27:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:32: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:33: Invalid player id 2612128
+L 01/07/2022 - 13:27:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:33: Invalid player id 2612128
+L 01/07/2022 - 13:27:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:33: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:34: Invalid player id 2612128
+L 01/07/2022 - 13:27:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:34: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:34: Invalid player id 2612128
+L 01/07/2022 - 13:27:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:34: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:35: Invalid player id 2612128
+L 01/07/2022 - 13:27:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:35: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:35: Invalid player id 2612128
+L 01/07/2022 - 13:27:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:35: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:36: Invalid player id 2612128
+L 01/07/2022 - 13:27:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:36: Invalid player id 2612128
+L 01/07/2022 - 13:27:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:36: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:37: Invalid player id 2612128
+L 01/07/2022 - 13:27:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:37: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:37: Invalid player id 2612128
+L 01/07/2022 - 13:27:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:37: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:38: Invalid player id 2612128
+L 01/07/2022 - 13:27:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:38: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:38: Invalid player id 2612128
+L 01/07/2022 - 13:27:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:38: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:39: Invalid player id 2612128
+L 01/07/2022 - 13:27:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:39: Invalid player id 2612128
+L 01/07/2022 - 13:27:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:39: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:40: Invalid player id 2612128
+L 01/07/2022 - 13:27:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:40: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:40: Invalid player id 2612128
+L 01/07/2022 - 13:27:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:40: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:41: Invalid player id 2612128
+L 01/07/2022 - 13:27:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:41: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:41: Invalid player id 2612128
+L 01/07/2022 - 13:27:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:41: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:42: Invalid player id 2612128
+L 01/07/2022 - 13:27:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:42: Invalid player id 2612128
+L 01/07/2022 - 13:27:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:42: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:43: Invalid player id 2612128
+L 01/07/2022 - 13:27:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:43: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:43: Invalid player id 2612128
+L 01/07/2022 - 13:27:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:43: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:44: Invalid player id 2612128
+L 01/07/2022 - 13:27:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:44: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:44: Invalid player id 2612128
+L 01/07/2022 - 13:27:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:44: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:45: Invalid player id 2612128
+L 01/07/2022 - 13:27:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:45: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:45: Invalid player id 2612128
+L 01/07/2022 - 13:27:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:45: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:46: Invalid player id 2612128
+L 01/07/2022 - 13:27:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:46: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:46: Invalid player id 2612128
+L 01/07/2022 - 13:27:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:46: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:47: Invalid player id 2612128
+L 01/07/2022 - 13:27:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:47: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:47: Invalid player id 2612128
+L 01/07/2022 - 13:27:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:47: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:48: Invalid player id 2612128
+L 01/07/2022 - 13:27:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:48: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:48: Invalid player id 2612128
+L 01/07/2022 - 13:27:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:48: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:49: Invalid player id 2612128
+L 01/07/2022 - 13:27:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:49: Invalid player id 2612128
+L 01/07/2022 - 13:27:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:49: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:50: Invalid player id 2612128
+L 01/07/2022 - 13:27:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:50: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:50: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:50: Invalid player id 2612128
+L 01/07/2022 - 13:27:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:50: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:50: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:51: Invalid player id 2612128
+L 01/07/2022 - 13:27:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:51: Invalid player id 2612128
+L 01/07/2022 - 13:27:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:51: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:51: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:52: Invalid player id 2612128
+L 01/07/2022 - 13:27:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:52: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:52: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:52: Invalid player id 2612128
+L 01/07/2022 - 13:27:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:52: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:52: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:53: Invalid player id 2612128
+L 01/07/2022 - 13:27:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:53: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:53: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:53: Invalid player id 2612128
+L 01/07/2022 - 13:27:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:53: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:53: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:54: Invalid player id 2612128
+L 01/07/2022 - 13:27:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:54: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:54: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:54: Invalid player id 2612128
+L 01/07/2022 - 13:27:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:54: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:54: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:55: Invalid player id 2612128
+L 01/07/2022 - 13:27:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:55: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:55: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:55: Invalid player id 2612128
+L 01/07/2022 - 13:27:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:55: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:55: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:56: Invalid player id 2612128
+L 01/07/2022 - 13:27:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:56: Invalid player id 2612128
+L 01/07/2022 - 13:27:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:56: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:57: Invalid player id 2612128
+L 01/07/2022 - 13:27:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:57: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:57: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:57: Invalid player id 2612128
+L 01/07/2022 - 13:27:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:57: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:57: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:58: Invalid player id 2612128
+L 01/07/2022 - 13:27:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:58: Invalid player id 2612128
+L 01/07/2022 - 13:27:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:58: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:59: Invalid player id 2612128
+L 01/07/2022 - 13:27:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:59: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:27:59: Invalid player id 2612128
+L 01/07/2022 - 13:27:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:27:59: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:27:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:00: Invalid player id 2612128
+L 01/07/2022 - 13:28:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:00: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:00: Invalid player id 2612128
+L 01/07/2022 - 13:28:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:00: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:01: Invalid player id 2612128
+L 01/07/2022 - 13:28:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:01: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:01: Invalid player id 2612128
+L 01/07/2022 - 13:28:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:01: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:02: Invalid player id 2612128
+L 01/07/2022 - 13:28:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:02: Invalid player id 2612128
+L 01/07/2022 - 13:28:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:02: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:03: Invalid player id 2612128
+L 01/07/2022 - 13:28:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:03: Invalid player id 2612128
+L 01/07/2022 - 13:28:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:04: Invalid player id 2612128
+L 01/07/2022 - 13:28:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:04: Invalid player id 2612128
+L 01/07/2022 - 13:28:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:05: Invalid player id 2612128
+L 01/07/2022 - 13:28:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:05: Invalid player id 2612128
+L 01/07/2022 - 13:28:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:06: Invalid player id 2612128
+L 01/07/2022 - 13:28:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:06: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:06: Invalid player id 2612128
+L 01/07/2022 - 13:28:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:06: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:07: Invalid player id 2612128
+L 01/07/2022 - 13:28:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:07: Invalid player id 2612128
+L 01/07/2022 - 13:28:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:08: Invalid player id 2612128
+L 01/07/2022 - 13:28:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:08: Invalid player id 2612128
+L 01/07/2022 - 13:28:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:09: Invalid player id 2612128
+L 01/07/2022 - 13:28:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:09: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:09: Invalid player id 2612128
+L 01/07/2022 - 13:28:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:09: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:10: Invalid player id 2612128
+L 01/07/2022 - 13:28:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:10: Invalid player id 2612128
+L 01/07/2022 - 13:28:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:11: Invalid player id 2612128
+L 01/07/2022 - 13:28:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:11: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:11: Invalid player id 2612128
+L 01/07/2022 - 13:28:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:11: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:12: Invalid player id 2612128
+L 01/07/2022 - 13:28:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:12: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:13: Invalid player id 2612128
+L 01/07/2022 - 13:28:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:13: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:13: Invalid player id 2612128
+L 01/07/2022 - 13:28:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:13: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:14: Invalid player id 2612128
+L 01/07/2022 - 13:28:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:14: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:14: Invalid player id 2612128
+L 01/07/2022 - 13:28:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:14: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:15: Invalid player id 2612128
+L 01/07/2022 - 13:28:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:15: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:15: Invalid player id 2612128
+L 01/07/2022 - 13:28:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:15: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:16: Invalid player id 2612128
+L 01/07/2022 - 13:28:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:28:16: Invalid player id 2612128
+L 01/07/2022 - 13:28:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:28:16: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 01/07/2022 - 13:28:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 29)
+L 01/07/2022 - 13:29:24: Start of error session.
+L 01/07/2022 - 13:29:24: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 13:29:24: Function is not present (function "show_jetpack_sprite") (plugin "scarface_system.amxx")
+L 01/07/2022 - 13:29:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 13:29:24: [AMXX] Run time error 10: native error (native "set_task")
+L 01/07/2022 - 13:29:24: [AMXX]    [0] jetpack.class::give_surf_jetpack (line 66)
+L 01/07/2022 - 13:29:24: [AMXX]    [1] menu.class::main_menu_handle (line 365)
+L 01/07/2022 - 16:39:04: Start of error session.
+L 01/07/2022 - 16:39:04: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 16:39:04: Invalid weapon id 0
+L 01/07/2022 - 16:39:04: [AMXX] Run time error 10 (plugin "weapon_icon.amxx") (native "get_user_ammo") - debug not enabled!
+L 01/07/2022 - 16:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/07/2022 - 16:45:40: Start of error session.
+L 01/07/2022 - 16:45:40: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 16:45:40: Invalid weapon id 0
+L 01/07/2022 - 16:45:40: [AMXX] Run time error 10 (plugin "weapon_icon.amxx") (native "get_user_ammo") - debug not enabled!
+L 01/07/2022 - 16:45:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/07/2022 - 16:47:07: Start of error session.
+L 01/07/2022 - 16:47:07: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 16:47:07: Invalid weapon id 0
+L 01/07/2022 - 16:47:07: [AMXX] Run time error 10 (plugin "weapon_icon.amxx") (native "get_user_ammo") - debug not enabled!
+L 01/07/2022 - 16:47:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/07/2022 - 16:50:26: Start of error session.
+L 01/07/2022 - 16:50:26: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 16:50:26: Invalid weapon id 0
+L 01/07/2022 - 16:50:26: [AMXX] Run time error 10 (plugin "weapon_icon.amxx") (native "get_user_ammo") - debug not enabled!
+L 01/07/2022 - 16:50:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/07/2022 - 16:56:08: Start of error session.
+L 01/07/2022 - 16:56:08: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 16:56:08: Invalid weapon id 0
+L 01/07/2022 - 16:56:08: [AMXX] Run time error 10 (plugin "weapon_icon.amxx") (native "get_user_ammo") - debug not enabled!
+L 01/07/2022 - 16:56:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/07/2022 - 17:06:55: Start of error session.
+L 01/07/2022 - 17:06:55: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220107.log")
+L 01/07/2022 - 17:06:55: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:55: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:55: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:55: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:06:56: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:56: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:56: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:56: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:06:57: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:57: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:57: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:57: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:06:58: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:58: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:58: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:06:58: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:58: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:58: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:58: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:06:59: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:59: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:59: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:06:59: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:06:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:06:59: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:06:59: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:06:59: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:00: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:00: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:00: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:00: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:00: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:00: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:00: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:01: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:01: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:01: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:01: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:01: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:01: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:01: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:02: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:02: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:02: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:02: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:02: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:02: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:02: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:03: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:03: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:03: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:03: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:03: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:03: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:03: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:04: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:04: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:04: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:04: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:04: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:04: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:04: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:05: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:05: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:05: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:05: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:05: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:05: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:05: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:06: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:06: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:06: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:06: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:06: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:06: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:06: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:07: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:07: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:07: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:07: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:07: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:07: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:07: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:08: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:08: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:08: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:08: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:08: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:08: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:08: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:09: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:09: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:09: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:09: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:09: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:09: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:09: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:10: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:10: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:10: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:10: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:10: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:10: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:10: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:11: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:11: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:11: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:11: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:11: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:11: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:11: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:12: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:12: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:12: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:12: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:12: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:12: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:12: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:13: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:13: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:13: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:13: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:13: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:13: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:13: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:14: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:14: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:14: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:14: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:14: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:14: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:14: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:15: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:15: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:15: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:15: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:15: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:15: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:15: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:16: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:16: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:16: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:16: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:16: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:16: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:16: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:17: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:17: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:17: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:17: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:17: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:17: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:17: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:18: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:18: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:18: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:18: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:18: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:18: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:18: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:18: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:19: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:19: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:19: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:19: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:19: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:19: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:19: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:20: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:20: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:20: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:20: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:20: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:20: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:20: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:21: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:21: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:21: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:21: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:21: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:21: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:21: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:21: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:22: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:22: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:22: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:22: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:22: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:22: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:22: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:22: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:23: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:23: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:23: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:23: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:23: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:23: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:23: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:24: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:24: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:24: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:24: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:24: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:24: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:24: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:25: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:25: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:25: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:25: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:25: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:25: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:25: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:26: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:26: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:26: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:26: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:26: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:26: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:26: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:27: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:27: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:27: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:27: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:27: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:27: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:27: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:28: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:28: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:28: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:28: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:28: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:28: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:28: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:29: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:29: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:29: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:29: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:29: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:29: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:29: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:30: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:30: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:30: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:30: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:30: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:30: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:30: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:30: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:31: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:31: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:31: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:31: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:31: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:31: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:31: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:32: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:32: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:32: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:32: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:32: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:32: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:32: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:33: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:33: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:33: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:33: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:33: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:33: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:33: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:34: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:34: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:34: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:34: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:34: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:34: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:34: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:35: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:35: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:35: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:35: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:35: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:35: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:35: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:36: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:36: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:36: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:36: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:36: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:36: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:36: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:37: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:37: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:37: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:37: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:37: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:37: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:37: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:38: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:38: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:38: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:38: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:38: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:38: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:38: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:39: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:39: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:39: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:39: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:39: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:39: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:39: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:40: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:40: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:40: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:40: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:40: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:40: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:40: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:41: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:41: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:41: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:41: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:41: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:41: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:41: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:42: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:42: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:42: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:42: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:42: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:42: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:42: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:43: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:43: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:43: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:43: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:43: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:43: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:43: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:44: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:44: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:44: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:44: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:44: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:44: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:44: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:45: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:45: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:45: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:45: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:45: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:45: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:45: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:46: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:46: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:46: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:46: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:46: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:46: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:46: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:47: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:47: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:47: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:47: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:47: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:47: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:47: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:48: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:48: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:48: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:48: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:48: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:48: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:48: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:49: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:49: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:49: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:49: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:49: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:49: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:49: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)
+L 01/07/2022 - 17:07:50: Plugin called message_begin with an invalid message id (0).
+L 01/07/2022 - 17:07:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/07/2022 - 17:07:50: [AMXX] Run time error 10: native error (native "message_begin")
+L 01/07/2022 - 17:07:50: [AMXX]    [0] jetpack.class::jetpack_energy_sprite (line 37)
+L 01/07/2022 - 17:07:50: [AMXX]    [1] jetpack.class::show_jetpack_sprite (line 27)

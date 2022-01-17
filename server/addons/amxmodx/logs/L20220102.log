@@ -1,0 +1,25 @@
+L 01/02/2022 - 22:59:44: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/02/2022 - 22:59:45: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/02/2022 - 22:59:45: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/02/2022 - 22:59:45: -------- Mapchange to de_dust2 --------
+L 01/02/2022 - 22:59:46: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/02/2022 - 22:59:46: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/02/2022 - 22:59:46: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/02/2022 - 22:59:46: [CSTRIKE] sv global variable is not available
+L 01/02/2022 - 22:59:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/02/2022 - 23:00:18: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/02/2022 - 23:00:18: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/02/2022 - 23:00:21: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/02/2022 - 23:01:52: -------- Mapchange to de_dust2 --------
+L 01/02/2022 - 23:01:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/02/2022 - 23:02:14: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/02/2022 - 23:02:14: [admin.amxx] Login: "Ricky<5><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/02/2022 - 23:02:15: [admin.amxx] Login: "Ricky<5><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/02/2022 - 23:02:21: -------- Mapchange to de_dust2 --------
+L 01/02/2022 - 23:02:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/02/2022 - 23:02:43: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/02/2022 - 23:02:43: [admin.amxx] Login: "Ricky<9><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/02/2022 - 23:02:45: [admin.amxx] Login: "Ricky<9><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/02/2022 - 23:04:13: -------- Mapchange to de_dust2 --------
+L 01/02/2022 - 23:04:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/02/2022 - 23:04:34: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)

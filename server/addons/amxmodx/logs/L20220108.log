@@ -1,0 +1,8 @@
+L 01/08/2022 - 16:11:27: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/08/2022 - 16:11:28: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/08/2022 - 16:11:28: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/08/2022 - 16:11:28: -------- Mapchange to surf_green --------
+L 01/08/2022 - 16:11:28: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/08/2022 - 16:11:28: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/08/2022 - 16:11:28: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/08/2022 - 16:11:28: [CSTRIKE] sv global variable is not available

@@ -1,0 +1,566 @@
+L 12/28/2021 - 19:01:32: Start of error session.
+L 12/28/2021 - 19:01:32: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:01:32: Precaching not allowed
+L 12/28/2021 - 19:01:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:01:32: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:01:32: [AMXX]    [0] menu.class::menu_precache (line 29)
+L 12/28/2021 - 19:01:32: Precaching not allowed
+L 12/28/2021 - 19:01:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:01:32: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:01:32: [AMXX]    [0] hookandgrab.class::hook_and_grab_precache (line 76)
+L 12/28/2021 - 19:01:32: Precaching not allowed
+L 12/28/2021 - 19:01:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:01:32: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:01:32: [AMXX]    [0] knife.class::knife_precache (line 262)
+L 12/28/2021 - 19:01:32: Precaching not allowed
+L 12/28/2021 - 19:01:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:01:32: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:01:32: [AMXX]    [0] jetpack.class::precache_surf_jetpack (line 18)
+L 12/28/2021 - 19:06:44: Start of error session.
+L 12/28/2021 - 19:06:44: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:06:44: [HAMSANDWICH] Function menu_precache not found.
+L 12/28/2021 - 19:06:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:06:44: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/28/2021 - 19:06:44: [AMXX]    [0] scarface_system.sma::plugin_init (line 61)
+L 12/28/2021 - 19:14:11: Start of error session.
+L 12/28/2021 - 19:14:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:14:11: Function is not present (function "menu_precache") (plugin "scarface_system.amxx")
+L 12/28/2021 - 19:14:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "unknown")
+L 12/28/2021 - 19:14:11: [AMXX] Run time error 10: native error (native "set_task")
+L 12/28/2021 - 19:14:11: [AMXX]    [0] udt_lib.class::call_function (line 66)
+L 12/28/2021 - 19:14:11: [AMXX]    [1] scarface_system.sma::plugin_precache (line 63)
+L 12/28/2021 - 19:15:51: Start of error session.
+L 12/28/2021 - 19:15:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:15:51: Function is not present (function "menu_precache") (plugin "scarface_system.amxx")
+L 12/28/2021 - 19:15:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "unknown")
+L 12/28/2021 - 19:15:51: [AMXX] Run time error 10: native error (native "set_task")
+L 12/28/2021 - 19:15:51: [AMXX]    [0] udt_lib.class::call_function (line 66)
+L 12/28/2021 - 19:15:51: [AMXX]    [1] scarface_system.sma::plugin_precache (line 63)
+L 12/28/2021 - 19:18:02: Start of error session.
+L 12/28/2021 - 19:18:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:18:02: Precaching not allowed
+L 12/28/2021 - 19:18:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:18:02: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:18:02: [AMXX]    [0] hookandgrab.class::hook_and_grab_precache (line 76)
+L 12/28/2021 - 19:18:02: Precaching not allowed
+L 12/28/2021 - 19:18:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:18:02: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:18:02: [AMXX]    [0] knife.class::knife_precache (line 262)
+L 12/28/2021 - 19:18:02: Precaching not allowed
+L 12/28/2021 - 19:18:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:18:02: [AMXX] Run time error 10: native error (native "precache_model")
+L 12/28/2021 - 19:18:02: [AMXX]    [0] jetpack.class::precache_surf_jetpack (line 18)
+L 12/28/2021 - 19:39:16: Start of error session.
+L 12/28/2021 - 19:39:16: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:39:16: Function "free" was not found
+L 12/28/2021 - 19:39:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:39:16: [AMXX] Run time error 19: function not found 
+L 12/28/2021 - 19:39:16: [AMXX]    [0] scarface_system.sma::plugin_init (line 84)
+L 12/28/2021 - 19:39:52: Invalid CVAR pointer
+L 12/28/2021 - 19:39:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:39:52: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:39:52: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:40:33: Invalid CVAR pointer
+L 12/28/2021 - 19:40:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:40:33: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:40:33: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:40:46: Invalid CVAR pointer
+L 12/28/2021 - 19:40:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:40:46: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:40:46: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:40:49: Start of error session.
+L 12/28/2021 - 19:40:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:40:49: Function "get_max_health" was not found
+L 12/28/2021 - 19:40:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:40:49: [AMXX] Run time error 19: function not found 
+L 12/28/2021 - 19:40:49: [AMXX]    [0] scarface_system.sma::plugin_init (line 86)
+L 12/28/2021 - 19:41:23: Invalid CVAR pointer
+L 12/28/2021 - 19:41:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:41:23: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:41:23: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:41:40: Invalid CVAR pointer
+L 12/28/2021 - 19:41:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:41:40: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:41:40: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:43:13: Start of error session.
+L 12/28/2021 - 19:43:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:43:13: Invalid CVAR pointer
+L 12/28/2021 - 19:43:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:43:13: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:43:13: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:44:13: Start of error session.
+L 12/28/2021 - 19:44:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:44:13: Invalid CVAR pointer
+L 12/28/2021 - 19:44:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:44:13: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:44:13: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:45:31: Invalid CVAR pointer
+L 12/28/2021 - 19:45:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:45:31: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:45:31: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:45:39: Invalid CVAR pointer
+L 12/28/2021 - 19:45:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:45:39: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:45:39: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:46:49: Invalid CVAR pointer
+L 12/28/2021 - 19:46:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:46:49: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:46:49: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:47:32: Start of error session.
+L 12/28/2021 - 19:47:32: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:47:32: Invalid CVAR pointer
+L 12/28/2021 - 19:47:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:47:32: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:47:32: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:47:47: Invalid CVAR pointer
+L 12/28/2021 - 19:47:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:47:47: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:47:47: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:27: Start of error session.
+L 12/28/2021 - 19:49:27: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:49:27: Invalid CVAR pointer
+L 12/28/2021 - 19:49:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:27: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:27: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:27: [AMXX]    [1] hookandgrab.class::hook_on (line 161)
+L 12/28/2021 - 19:49:27: Invalid CVAR pointer
+L 12/28/2021 - 19:49:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:27: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:27: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:27: Invalid CVAR pointer
+L 12/28/2021 - 19:49:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:27: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:27: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:28: Invalid CVAR pointer
+L 12/28/2021 - 19:49:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:28: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:28: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:29: Invalid CVAR pointer
+L 12/28/2021 - 19:49:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:29: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:29: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:30: Invalid CVAR pointer
+L 12/28/2021 - 19:49:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:30: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:30: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_float")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_task (line 253)
+L 12/28/2021 - 19:49:31: Invalid CVAR pointer
+L 12/28/2021 - 19:49:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:31: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:31: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:32: Invalid CVAR pointer
+L 12/28/2021 - 19:49:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:32: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:32: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:33: Invalid CVAR pointer
+L 12/28/2021 - 19:49:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:33: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:33: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:34: Invalid CVAR pointer
+L 12/28/2021 - 19:49:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:34: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:34: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:34: Invalid CVAR pointer
+L 12/28/2021 - 19:49:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:34: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:34: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:34: Invalid CVAR pointer
+L 12/28/2021 - 19:49:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:34: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:34: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:34: Invalid CVAR pointer
+L 12/28/2021 - 19:49:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:34: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:34: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:35: Invalid CVAR pointer
+L 12/28/2021 - 19:49:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:35: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:35: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:35: Invalid CVAR pointer
+L 12/28/2021 - 19:49:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:35: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:35: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:38: Invalid CVAR pointer
+L 12/28/2021 - 19:49:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:38: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:49:38: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:49:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:42: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:49:42: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:49:42: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:49:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:44: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:49:44: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:49:44: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:49:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:44: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:49:44: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:49:44: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:49:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:49:48: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:49:48: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:49:48: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:50:04: Invalid CVAR pointer
+L 12/28/2021 - 19:50:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:04: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:04: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:05: Invalid CVAR pointer
+L 12/28/2021 - 19:50:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:05: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:05: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:05: Invalid CVAR pointer
+L 12/28/2021 - 19:50:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:05: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:05: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:05: Invalid CVAR pointer
+L 12/28/2021 - 19:50:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:05: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:05: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:05: Invalid CVAR pointer
+L 12/28/2021 - 19:50:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:05: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:05: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:06: Invalid CVAR pointer
+L 12/28/2021 - 19:50:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:06: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:06: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:10: Invalid CVAR pointer
+L 12/28/2021 - 19:50:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:10: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:10: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:50:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:19: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:50:19: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:50:19: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:50:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:20: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:50:20: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:50:20: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:50:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:21: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:50:21: [AMXX]    [0] hookandgrab.class::set_grabbed (line 638)
+L 12/28/2021 - 19:50:21: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 467)
+L 12/28/2021 - 19:50:26: Invalid CVAR pointer
+L 12/28/2021 - 19:50:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:50:26: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:50:26: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:51:51: Invalid CVAR pointer
+L 12/28/2021 - 19:51:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:51:51: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:51:51: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:52:06: Invalid CVAR pointer
+L 12/28/2021 - 19:52:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:52:06: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:52:06: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:54:20: Invalid CVAR pointer
+L 12/28/2021 - 19:54:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:54:20: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:54:20: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:54:48: Invalid CVAR pointer
+L 12/28/2021 - 19:54:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:54:48: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:54:48: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:55:07: Invalid CVAR pointer
+L 12/28/2021 - 19:55:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:55:07: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/28/2021 - 19:55:07: [AMXX]    [0] hookandgrab.class::hook_off (line 222)
+L 12/28/2021 - 19:55:46: Start of error session.
+L 12/28/2021 - 19:55:46: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:55:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:55:46: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:55:46: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:55:46: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 464)
+L 12/28/2021 - 19:55:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:55:48: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:55:48: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:55:48: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 464)
+L 12/28/2021 - 19:55:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:55:49: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:55:49: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:55:49: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 464)
+L 12/28/2021 - 19:55:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:55:49: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:55:49: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:55:49: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 464)
+L 12/28/2021 - 19:56:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:56:30: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:56:30: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:56:30: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 464)
+L 12/28/2021 - 19:56:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:56:33: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:56:33: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:56:33: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 486)
+L 12/28/2021 - 19:56:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:56:39: [AMXX] Run time error 4: index out of bounds 
+L 12/28/2021 - 19:56:39: [AMXX]    [0] hookandgrab.class::set_grabbed (line 635)
+L 12/28/2021 - 19:56:39: [AMXX]    [1] hookandgrab.class::fm_player_prethink (line 486)
+L 12/28/2021 - 19:57:13: Start of error session.
+L 12/28/2021 - 19:57:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:57:13: Function is not present (function "grab_menu") (plugin "scarface_system.amxx")
+L 12/28/2021 - 19:57:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:57:13: [AMXX] Run time error 10: native error (native "set_task")
+L 12/28/2021 - 19:57:13: [AMXX]    [0] udt_lib.class::call_function (line 66)
+L 12/28/2021 - 19:57:13: [AMXX]    [1] hookandgrab.class::set_grabbed (line 636)
+L 12/28/2021 - 19:57:13: [AMXX]    [2] hookandgrab.class::fm_player_prethink (line 464)
+L 12/28/2021 - 19:59:46: Start of error session.
+L 12/28/2021 - 19:59:46: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 19:59:46: Invalid function "menu_handler"
+L 12/28/2021 - 19:59:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:59:46: [AMXX] Run time error 19: function not found 
+L 12/28/2021 - 19:59:46: [AMXX]    [0] menu.class::grab_menu_function (line 1217)
+L 12/28/2021 - 19:59:59: Invalid function "menu_handler"
+L 12/28/2021 - 19:59:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 19:59:59: [AMXX] Run time error 19: function not found 
+L 12/28/2021 - 19:59:59: [AMXX]    [0] menu.class::grab_menu_function (line 1217)
+L 12/28/2021 - 20:01:38: Start of error session.
+L 12/28/2021 - 20:01:38: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:01:38: Invalid player id 0.
+L 12/28/2021 - 20:01:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:01:38: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:01:38: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:01:46: Invalid player id 0.
+L 12/28/2021 - 20:01:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:01:46: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:01:46: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:21: Start of error session.
+L 12/28/2021 - 20:03:21: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:03:21: Invalid player id 0.
+L 12/28/2021 - 20:03:21: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:21: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:21: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:23: Invalid player id 0.
+L 12/28/2021 - 20:03:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:23: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:23: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:24: Invalid player id 0.
+L 12/28/2021 - 20:03:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:24: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:24: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:24: Invalid player id 0.
+L 12/28/2021 - 20:03:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:24: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:24: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:24: Invalid player id 0.
+L 12/28/2021 - 20:03:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:24: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:24: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:24: Invalid player id 0.
+L 12/28/2021 - 20:03:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:24: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:24: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:28: Invalid player id 0.
+L 12/28/2021 - 20:03:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:28: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:28: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:03:54: Start of error session.
+L 12/28/2021 - 20:03:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:03:54: Invalid player id 0.
+L 12/28/2021 - 20:03:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:03:54: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:03:54: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:04:12: Start of error session.
+L 12/28/2021 - 20:04:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:04:12: Invalid player id 0.
+L 12/28/2021 - 20:04:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:04:12: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:04:12: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:05:49: Start of error session.
+L 12/28/2021 - 20:05:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:05:49: Invalid player id 0.
+L 12/28/2021 - 20:05:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:05:49: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:05:49: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:05:53: Invalid player id 0.
+L 12/28/2021 - 20:05:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:05:53: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:05:53: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:08:12: Start of error session.
+L 12/28/2021 - 20:08:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:08:12: Invalid player id 0.
+L 12/28/2021 - 20:08:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:08:12: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:08:12: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:09:18: Start of error session.
+L 12/28/2021 - 20:09:18: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:09:18: Invalid player id 0.
+L 12/28/2021 - 20:09:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:09:18: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:09:18: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:09:26: Invalid player id 0.
+L 12/28/2021 - 20:09:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:09:26: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:09:26: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:10:24: Start of error session.
+L 12/28/2021 - 20:10:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:10:24: Invalid player id 0.
+L 12/28/2021 - 20:10:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:10:24: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/28/2021 - 20:10:24: [AMXX]    [0] menu.class::grab_menu_function (line 1226)
+L 12/28/2021 - 20:18:04: Start of error session.
+L 12/28/2021 - 20:18:04: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 20:18:04: Invalid player id 0
+L 12/28/2021 - 20:18:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:18:04: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 12/28/2021 - 20:18:04: [AMXX]    [0] hookandgrab.class::grab_eff_zd (line 788)
+L 12/28/2021 - 20:18:04: [AMXX]    [1] hookandgrab.class::bury (line 739)
+L 12/28/2021 - 20:18:05: Invalid player id 0
+L 12/28/2021 - 20:18:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:18:05: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 12/28/2021 - 20:18:05: [AMXX]    [0] hookandgrab.class::grab_eff_zd (line 788)
+L 12/28/2021 - 20:18:05: [AMXX]    [1] hookandgrab.class::bury (line 739)
+L 12/28/2021 - 20:18:07: Invalid player id 0
+L 12/28/2021 - 20:18:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:18:07: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 12/28/2021 - 20:18:07: [AMXX]    [0] hookandgrab.class::grab_eff_zd (line 788)
+L 12/28/2021 - 20:18:07: [AMXX]    [1] hookandgrab.class::bury (line 739)
+L 12/28/2021 - 20:18:08: Invalid player id 0
+L 12/28/2021 - 20:18:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:18:08: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 12/28/2021 - 20:18:08: [AMXX]    [0] hookandgrab.class::grab_eff_zd (line 788)
+L 12/28/2021 - 20:18:08: [AMXX]    [1] hookandgrab.class::bury (line 739)
+L 12/28/2021 - 20:18:10: Invalid player id 0
+L 12/28/2021 - 20:18:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 20:18:10: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 12/28/2021 - 20:18:10: [AMXX]    [0] hookandgrab.class::grab_eff_zd (line 788)
+L 12/28/2021 - 20:18:10: [AMXX]    [1] hookandgrab.class::bury (line 739)
+L 12/28/2021 - 21:21:49: Start of error session.
+L 12/28/2021 - 21:21:49: Info (map "as_oilrig") (file "addons/amxmodx/logs/error_20211228.log")
+L 12/28/2021 - 21:21:49: [CSTRIKE] Player out of range (67)
+L 12/28/2021 - 21:21:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 12/28/2021 - 21:21:49: [AMXX] Run time error 10: native error (native "cs_get_user_buyzone")
+L 12/28/2021 - 21:21:49: [AMXX]    [0] main.class::player_take_damage (line 66)

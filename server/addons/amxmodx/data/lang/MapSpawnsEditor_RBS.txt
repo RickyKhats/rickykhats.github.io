@@ -1,0 +1,36 @@
+[ru]
+MSE_TAG = !n[!gSpawnEditor!n]
+MSE_TAG_MENU = \r[\ySpawnEditor\r]\w
+MENU_TITLE = Main Menu
+MENU_ORIGIN_SPAWNS = Оригинальные Spawns
+MENU_EDIT_SPAWNS = Редактированные Spawns
+MENU_ADD_SPAWN = Добавить spawn \r%s
+MENU_ADD_LOCATION = \ySpawn локация:
+MENU_LOCATION_CURRENT = \rТекущее местоположение
+MENU_LOCATION_ABOVE = \rВыше текущего местоположения
+MENU_TURN_LEFT = Повернуть spawn \yвлево
+MENU_TURN_RIGHT = Повернуть spawn \yвправо
+MENU_SAVE_ALL_SPAWNS = Сохранить все
+MENU_SAFE_CHECK = \yПроверочный диапазон:
+MENU_CLEAR_SPAWN = Очистить spawn
+MENU_CLEAR_ALL_T_SPAWNS = Очистить все T spawns
+MENU_CLEAR_ALL_CT_SPAWNS = Очистить все CT spawns
+MENU_DEL_SPAWNS_FILE = Удалить spawn файл \r%s
+MENU_EXPORT_FOR_RIPENT = Экспорт spawns в ENT
+MENU_EXIT = Выход
+MENU_NEXT = Дальше
+MENU_BACK = Назад
+MSG_FUNCTION_DISABLED = Редактор Spawn !tвыключен! !nНапишите в консоли !gspawn_enable 1!n, чтобы его включить.
+MSG_ADD_SPAWN = Добавлен spawn!t %s
+MSG_SAVE_SPAWNSFLIE = Все spawn точки !tуспешно сохранены и загружены !nв файл. !g(T=%d,CT=%d)
+MSG_CLEAR_SPAWN = Spawn точка!t %s !nуспешно очищенна
+MSG_CLEAR_ALL_T_SPAWNS = Все spawn точки !tT !nуспешно очищены
+MSG_CLEAR_ALL_CT_SPAWNS = Все spawn точки !tCT !nуспешно очищены
+MSG_DEL_SPAWNSFILE = Spawn файл карты !g%s !tуспешно удален
+MSG_EXOPRT_SPAWNSFLIE = Экспорт всех spawns точек. !t[%s] !g(T=%d,CT=%d)
+MSG_AUTO_REMOVE_SPAWN = Авто-удаление spawn точки !t%s !nнеудалось.
+MSG_AIM_SPAWN = %s spawn #%d
+MSG_ALREADY_INUSE = Кто-то уже использует редактор Spawns
+MSG_CHECK_FAULT = !tНедопустимое местоположение!
+ERROR_POINT_NOTFOUND = !tНаведите прицел на Spawn точку!
+ERROR_SAVE_SPAWNSFLIE = !tОшибка: !nНе могу сохранить spawns в файл.

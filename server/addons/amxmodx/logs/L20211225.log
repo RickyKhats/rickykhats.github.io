@@ -1,0 +1,150 @@
+L 12/25/2021 - 13:26:49: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/25/2021 - 13:26:50: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 12/25/2021 - 13:26:50: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/25/2021 - 13:26:50: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 13:26:51: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/25/2021 - 13:26:51: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/25/2021 - 13:26:51: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/25/2021 - 13:26:51: [CSTRIKE] sv global variable is not available
+L 12/25/2021 - 13:27:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 13:27:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 13:27:18: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:27:23: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:45:25: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/25/2021 - 13:45:40: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 12/25/2021 - 13:49:30: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 13:49:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 13:49:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 13:49:31: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:49:32: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:50:16: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 13:50:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 13:50:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 13:50:17: [admin.amxx] Login: "Ricky<3><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:50:18: [admin.amxx] Login: "Ricky<3><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:51:27: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 13:51:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 13:51:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 13:51:28: [admin.amxx] Login: "Ricky<5><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:51:29: [admin.amxx] Login: "Ricky<5><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:55:24: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 13:55:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 13:55:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 13:55:24: [admin.amxx] Login: "Ricky<7><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:55:25: [admin.amxx] Login: "Ricky<7><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:59:33: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 13:59:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 13:59:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 13:59:33: [admin.amxx] Login: "Ricky<9><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 13:59:34: [admin.amxx] Login: "Ricky<9><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 14:02:02: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 14:02:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 14:02:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 14:02:03: [admin.amxx] Login: "Ricky<11><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 14:02:04: [admin.amxx] Login: "Ricky<11><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 14:07:07: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 14:07:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 14:07:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 14:07:07: [admin.amxx] Login: "Ricky<13><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 14:07:08: [admin.amxx] Login: "Ricky<13><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 14:11:16: -------- Mapchange to de_airstrip --------
+L 12/25/2021 - 14:11:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 14:11:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 14:11:16: [admin.amxx] Login: "Ricky<15><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 14:11:17: [admin.amxx] Login: "Ricky<15><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 17:27:01: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/25/2021 - 17:27:02: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 12/25/2021 - 17:27:02: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/25/2021 - 17:27:02: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 17:27:03: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/25/2021 - 17:27:03: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/25/2021 - 17:27:03: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/25/2021 - 17:27:03: [CSTRIKE] sv global variable is not available
+L 12/25/2021 - 17:27:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 17:27:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 17:27:12: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 17:27:16: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:32:44: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/25/2021 - 19:32:45: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 12/25/2021 - 19:32:45: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/25/2021 - 19:32:45: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:32:45: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/25/2021 - 19:32:45: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/25/2021 - 19:32:45: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/25/2021 - 19:32:45: [CSTRIKE] sv global variable is not available
+L 12/25/2021 - 19:32:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:32:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:32:54: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:32:56: [admin.amxx] Login: "Ricky<1><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:34:23: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:34:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:34:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:34:23: [admin.amxx] Login: "Ricky<2><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:34:24: [admin.amxx] Login: "Ricky<2><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:36:40: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:36:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:36:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:36:41: [admin.amxx] Login: "Ricky<3><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:36:42: [admin.amxx] Login: "Ricky<3><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:39:01: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:39:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:39:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:39:01: [admin.amxx] Login: "Ricky<4><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:39:02: [admin.amxx] Login: "Ricky<4><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:43:09: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:43:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:43:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:43:10: [admin.amxx] Login: "Ricky<5><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:43:11: [admin.amxx] Login: "Ricky<5><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:45:39: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:45:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:45:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:45:40: [admin.amxx] Login: "Ricky<6><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:45:40: [admin.amxx] Login: "Ricky<6><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:47:11: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:47:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:47:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:47:11: [admin.amxx] Login: "Ricky<7><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:47:12: [admin.amxx] Login: "Ricky<7><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:47:25: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:47:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:47:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:47:25: [admin.amxx] Login: "Ricky<8><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:47:26: [admin.amxx] Login: "Ricky<8><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:48:28: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:48:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:48:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:48:29: [admin.amxx] Login: "Ricky<9><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:48:30: [admin.amxx] Login: "Ricky<9><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:49:49: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:49:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:49:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:49:49: [admin.amxx] Login: "Ricky<10><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:49:50: [admin.amxx] Login: "Ricky<10><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:50:22: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:50:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:50:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:50:23: [admin.amxx] Login: "Ricky<11><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:50:24: [admin.amxx] Login: "Ricky<11><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:52:42: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 19:52:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 19:52:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 19:52:42: [admin.amxx] Login: "Ricky<12><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 19:52:43: [admin.amxx] Login: "Ricky<12><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 20:10:41: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/25/2021 - 20:10:57: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_office
+L 12/25/2021 - 20:11:47: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 20:11:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 20:11:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 20:11:48: [admin.amxx] Login: "Ricky<13><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 20:11:49: [admin.amxx] Login: "Ricky<13><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 20:15:31: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 20:15:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 20:15:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 20:15:31: [admin.amxx] Login: "Ricky<14><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 20:15:32: [admin.amxx] Login: "Ricky<14><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 20:16:58: -------- Mapchange to de_dust2 --------
+L 12/25/2021 - 20:16:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 12/25/2021 - 20:16:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab.txt
+L 12/25/2021 - 20:16:59: [admin.amxx] Login: "Ricky<15><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 12/25/2021 - 20:17:00: [admin.amxx] Login: "Ricky<15><STEAM_ID_LAN><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")

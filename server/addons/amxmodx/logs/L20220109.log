@@ -1,0 +1,111 @@
+L 01/09/2022 - 00:24:51: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:24:51: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:24:51: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:24:52: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:24:52: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:24:52: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:24:52: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:24:52: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:25:58: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:25:58: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:25:58: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:25:59: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:25:59: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:25:59: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:25:59: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:25:59: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:27:04: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:27:04: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:27:04: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:27:04: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:27:04: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:27:04: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:27:04: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:27:04: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:28:11: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:28:11: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:28:11: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:28:11: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:28:11: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:28:11: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:28:11: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:28:11: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:29:15: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:29:15: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:29:15: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:29:15: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:29:16: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:29:16: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:29:16: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:29:16: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:30:57: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:30:57: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:30:57: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:30:58: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:30:58: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:30:58: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:30:58: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:30:58: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:33:12: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:33:12: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:33:12: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:33:12: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:33:12: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:33:12: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:33:12: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:33:12: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:34:25: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:34:25: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:34:25: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:34:25: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:34:25: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:34:25: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:34:25: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:34:25: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:34:25: [custom_models.amxx] [WARNING] Model 'models/player/dobby/dobby.mdl' not found.
+L 01/09/2022 - 00:34:25: [custom_models.amxx] [WARNING] Model 'models/player/dobby/dobby.mdl' not found.
+L 01/09/2022 - 00:34:31: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 01/09/2022 - 00:36:25: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:36:25: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:36:25: -------- Mapchange to de_dust2 --------
+L 01/09/2022 - 00:36:25: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:36:25: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:36:25: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:36:26: [custom_models.amxx] [WARNING] Model 'models/player/dobby/dobby.mdl' not found.
+L 01/09/2022 - 00:36:26: [custom_models.amxx] [WARNING] Model 'models/player/dobby/dobby.mdl' not found.
+L 01/09/2022 - 00:36:41: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:36:42: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:36:42: -------- Mapchange to de_dust2 --------
+L 01/09/2022 - 00:36:42: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:36:42: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:36:42: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:36:42: [custom_models.amxx] [WARNING] Model 'models/player/dobby/dobby.mdl' not found.
+L 01/09/2022 - 00:36:42: [custom_models.amxx] [WARNING] Model 'models/player/dobby/dobby.mdl' not found.
+L 01/09/2022 - 00:36:56: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:36:56: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:36:56: -------- Mapchange to de_dust2 --------
+L 01/09/2022 - 00:36:56: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:36:56: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:36:56: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:39:11: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:39:11: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:39:11: -------- Mapchange to de_dust2 --------
+L 01/09/2022 - 00:39:11: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:39:11: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:39:11: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:39:31: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:39:31: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:39:31: -------- Mapchange to de_dust2 --------
+L 01/09/2022 - 00:39:31: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:39:31: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:39:31: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:39:39: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/09/2022 - 00:39:39: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/09/2022 - 00:39:39: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/09/2022 - 00:39:39: -------- Mapchange to surf_green --------
+L 01/09/2022 - 00:39:39: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/09/2022 - 00:39:39: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/09/2022 - 00:39:39: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/09/2022 - 00:39:39: [CSTRIKE] sv global variable is not available
+L 01/09/2022 - 00:39:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/09/2022 - 00:39:42: [admin.amxx] Login: "Ricky_Khats<1><STEAM_ID_LAN><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstuv") (address "loopback")

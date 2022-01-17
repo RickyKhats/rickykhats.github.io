@@ -1,0 +1,46 @@
+L 01/03/2022 - 01:39:24: -------- Mapchange to de_dust2 --------
+L 01/03/2022 - 01:39:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 01:39:53: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 01:40:38: -------- Mapchange to de_dust2 --------
+L 01/03/2022 - 01:40:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 01:40:59: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 01:53:29: -------- Mapchange to de_dust2 --------
+L 01/03/2022 - 01:53:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 01:53:51: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 01:54:51: -------- Mapchange to de_dust2 --------
+L 01/03/2022 - 01:54:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 01:55:12: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 02:13:12: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/03/2022 - 02:13:27: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 01/03/2022 - 02:16:32: -------- Mapchange to de_dust --------
+L 01/03/2022 - 02:16:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 02:16:54: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 02:34:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/03/2022 - 02:35:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_747
+L 01/03/2022 - 02:36:46: -------- Mapchange to cs_747 --------
+L 01/03/2022 - 02:36:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 02:37:07: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 12:54:16: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 01/03/2022 - 12:54:17: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 01/03/2022 - 12:54:17: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 01/03/2022 - 12:54:18: -------- Mapchange to de_dust2 --------
+L 01/03/2022 - 12:54:18: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 01/03/2022 - 12:54:18: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 01/03/2022 - 12:54:18: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 01/03/2022 - 12:54:18: [CSTRIKE] sv global variable is not available
+L 01/03/2022 - 12:54:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 12:54:54: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 13:13:04: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 01/03/2022 - 13:13:19: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 01/03/2022 - 13:16:47: -------- Mapchange to de_airstrip --------
+L 01/03/2022 - 13:16:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 13:17:15: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 13:27:36: -------- Mapchange to de_airstrip --------
+L 01/03/2022 - 13:27:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 13:27:59: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 13:29:30: -------- Mapchange to de_airstrip --------
+L 01/03/2022 - 13:29:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 13:29:52: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)
+L 01/03/2022 - 13:33:48: -------- Mapchange to de_airstrip --------
+L 01/03/2022 - 13:33:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 01/03/2022 - 13:34:10: [rpg_mod.amxx] SQL Error: Can't connect to MySQL server on 'db3.myarena.ru' (10060) (2003)

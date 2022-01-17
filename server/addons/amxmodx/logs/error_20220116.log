@@ -1,0 +1,1023 @@
+L 01/16/2022 - 01:28:59: Start of error session.
+L 01/16/2022 - 01:28:59: Info (map "surf_crystals") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 01:28:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 01:28:59: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 01:28:59: [AMXX]    [0] knife.class::knife_menu_handle (line 282)
+L 01/16/2022 - 01:29:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 01:29:43: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 01:29:43: [AMXX]    [0] knife.class::knife_menu_handle (line 282)
+L 01/16/2022 - 02:20:30: Start of error session.
+L 01/16/2022 - 02:20:30: Info (map "surf_crystals") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 02:20:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:30: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:30: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:30: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:31: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:31: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:31: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:33: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:33: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:33: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:35: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:35: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:35: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:41: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:41: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:41: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:42: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:42: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:42: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:45: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:45: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:45: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:20:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:20:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:20:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:20:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:46: Start of error session.
+L 01/16/2022 - 02:28:46: Info (map "surf_crystals") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 02:28:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:49: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:49: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:49: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:49: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:49: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:49: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:50: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:50: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:50: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:50: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:50: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:50: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:51: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:51: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:51: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:51: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:51: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:51: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:53: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:53: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:53: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:53: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:53: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:53: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:54: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:54: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:54: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:54: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:54: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:54: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:55: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:55: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:55: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:55: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:55: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:55: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:55: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:56: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:56: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:56: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:56: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:56: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:56: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:56: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:57: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:57: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:57: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:57: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:57: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:57: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:58: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:58: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:58: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:58: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:58: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:58: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:59: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:59: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:59: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:28:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:28:59: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:28:59: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:28:59: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:00: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:00: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:00: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:00: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:00: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:00: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:00: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:01: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:01: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:01: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:01: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:01: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:01: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:01: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:02: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:02: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:02: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:02: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:02: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:02: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:02: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:03: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:03: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:03: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:04: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:04: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:04: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:04: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:04: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:04: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:05: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:05: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:05: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:05: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:05: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:05: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:06: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:06: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:06: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:06: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:06: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:06: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:07: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:07: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:07: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:07: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:07: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:07: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:08: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:08: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:08: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:08: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:08: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:08: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:09: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:09: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:09: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:09: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:09: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:09: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:10: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:10: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:10: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:10: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:10: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:10: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:11: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:11: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:11: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:11: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:11: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:11: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:12: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:12: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:12: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:12: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:12: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:12: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:13: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:13: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:13: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:13: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:13: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:13: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:13: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:14: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:14: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:14: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:14: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:14: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:14: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:15: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:15: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:15: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:15: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:15: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:15: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:16: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:16: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:16: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:16: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:16: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:16: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:29:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:29:17: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:29:17: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:29:17: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:30:26: Start of error session.
+L 01/16/2022 - 02:30:26: Info (map "surf_ski_4") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 02:30:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:30:26: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:30:26: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:30:26: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:30:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:30:32: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:30:32: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:30:32: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:30:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:30:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:30:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:30:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:30:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:30:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:30:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:30:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:30:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:30:45: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:30:45: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:30:45: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:30:58: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:30:58: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:30:58: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:30:58: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:31:19: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:31:19: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:31:19: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:31:19: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:31:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:31:33: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:31:33: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:31:33: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:31:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:31:35: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:31:35: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:31:35: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:31:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:31:38: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:31:38: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:31:38: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:31:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:31:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:31:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:31:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:31:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:31:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:31:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:31:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:03: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:03: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:03: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:14: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:14: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:14: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:16: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:16: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:16: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:20: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:20: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:20: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:27: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:27: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:27: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:27: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:27: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:27: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:38: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:38: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:38: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:32:59: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:32:59: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:32:59: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:32:59: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:11: Start of error session.
+L 01/16/2022 - 02:38:11: Info (map "surf_crystals") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 02:38:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:11: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:11: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:11: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:12: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:12: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:12: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:12: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:26: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:26: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:26: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:27: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:27: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:27: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:27: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:27: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:27: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:28: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:28: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:28: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:43: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:43: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:43: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:43: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:43: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:43: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:38:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:38:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:38:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:38:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:04: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:04: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:04: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:05: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:05: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:05: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:05: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:05: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:05: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:05: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:05: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:05: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:05: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:05: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:05: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:05: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:18: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:18: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:18: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:18: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:18: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:18: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:18: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:33: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:33: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:33: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:34: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:34: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:34: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:39:57: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:39:57: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:39:57: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:39:57: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:06: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:06: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:06: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:06: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:07: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:07: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:07: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:07: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:08: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:08: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:08: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:09: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:09: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:09: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:09: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:30: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:30: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:30: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:30: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:30: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:30: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:40:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:40:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:40:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:40:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:04: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:04: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:04: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:04: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:10: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:10: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:10: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:10: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:10: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:10: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:11: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:11: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:11: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:11: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:11: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:11: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:15: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:15: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:15: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:15: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:16: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:16: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:16: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:30: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:30: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:30: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:30: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:31: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:31: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:31: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:32: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:32: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:32: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:33: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:33: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:33: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:36: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:36: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:36: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:36: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:37: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:37: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:37: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:37: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:37: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:37: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:38: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:38: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:38: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:38: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:39: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:39: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:39: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:39: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:39: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:39: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:40: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:40: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:40: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:40: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:40: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:40: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:42: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:42: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:42: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:43: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:43: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:43: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:45: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:45: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:45: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:49: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:49: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:49: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:50: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:50: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:50: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:50: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:50: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:50: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:50: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:51: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:51: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:51: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:53: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:53: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:53: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:54: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:54: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:54: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:41:54: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:41:54: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:41:54: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:41:54: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:08: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:08: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:08: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:08: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:08: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:08: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:08: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:10: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:10: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:10: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:10: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:11: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:11: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:11: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:11: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:16: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:16: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:16: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:17: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:17: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:17: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:17: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:17: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:17: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:33: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:33: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:33: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:33: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:34: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:34: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:34: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:39: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:39: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:39: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:39: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:39: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:39: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:40: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:40: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:40: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:40: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:40: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:40: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:40: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:41: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:41: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:41: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:41: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:41: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:41: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:41: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:42: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:42: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:42: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:42: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:42: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:42: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:43: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:43: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:43: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:45: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:45: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:45: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:45: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:45: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:45: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:46: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:46: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:46: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:46: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:48: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:48: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:48: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:48: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:49: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:49: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:49: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:49: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:51: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:51: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:51: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:52: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:52: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:52: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:52: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:42:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:42:53: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:42:53: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:42:53: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:14: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:14: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:14: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:14: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:16: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:16: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:16: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:16: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:17: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:17: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:17: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:17: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:17: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:17: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:17: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:43: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:43: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:43: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:44: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:44: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:44: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:44: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:45: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:45: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:45: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:45: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 02:43:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 02:43:47: [AMXX] Run time error 4: index out of bounds 
+L 01/16/2022 - 02:43:47: [AMXX]    [0] scarface_system.sma::model_name (line 629)
+L 01/16/2022 - 02:43:47: [AMXX]    [1] main.class::player_take_damage (line 45)
+L 01/16/2022 - 13:24:47: Start of error session.
+L 01/16/2022 - 13:24:47: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 13:24:47: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:24:47: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:24:47: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:24:47: [AMXX]    [0] hookandgrab.class::grab_menu_function (line 263)
+L 01/16/2022 - 13:24:47: [AMXX]    [1] hookandgrab.class::set_grabbed (line 805)
+L 01/16/2022 - 13:24:47: [AMXX]    [2] hookandgrab.class::fm_player_prethink (line 633)
+L 01/16/2022 - 13:24:53: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:24:53: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:24:53: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:24:53: [AMXX]    [0] hookandgrab.class::grab_menu_function (line 263)
+L 01/16/2022 - 13:24:53: [AMXX]    [1] hookandgrab.class::set_grabbed (line 805)
+L 01/16/2022 - 13:24:53: [AMXX]    [2] hookandgrab.class::fm_player_prethink (line 633)
+L 01/16/2022 - 13:26:20: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:20: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:20: [AMXX]    [0] menu.class::main_menu_function (line 449)
+L 01/16/2022 - 13:26:23: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:23: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:23: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:23: [AMXX]    [0] menu.class::cso_menu_function (line 1292)
+L 01/16/2022 - 13:26:23: [AMXX]    [1] menu.class::menu_system_tick (line 195)
+L 01/16/2022 - 13:26:23: [AMXX]    [2] scarface_system.sma::tick (line 371)
+L 01/16/2022 - 13:26:24: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:24: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:24: [AMXX]    [0] menu.class::main_menu_function (line 449)
+L 01/16/2022 - 13:26:29: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:29: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:29: [AMXX]    [0] menu.class::cso_menu_function (line 1292)
+L 01/16/2022 - 13:26:29: [AMXX]    [1] menu.class::menu_system_tick (line 195)
+L 01/16/2022 - 13:26:29: [AMXX]    [2] scarface_system.sma::tick (line 371)
+L 01/16/2022 - 13:26:34: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:34: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:34: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:34: [AMXX]    [0] menu.class::main_menu_function (line 449)
+L 01/16/2022 - 13:26:35: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:35: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:35: [AMXX]    [0] menu.class::cso_menu_function (line 1292)
+L 01/16/2022 - 13:26:35: [AMXX]    [1] menu.class::menu_system_tick (line 195)
+L 01/16/2022 - 13:26:35: [AMXX]    [2] scarface_system.sma::tick (line 371)
+L 01/16/2022 - 13:26:37: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:37: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:37: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:37: [AMXX]    [0] menu.class::cso_menu_function (line 1292)
+L 01/16/2022 - 13:26:37: [AMXX]    [1] menu.class::menu_system_tick (line 195)
+L 01/16/2022 - 13:26:37: [AMXX]    [2] scarface_system.sma::tick (line 371)
+L 01/16/2022 - 13:26:39: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:39: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:39: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:39: [AMXX]    [0] menu.class::cso_menu_function (line 1292)
+L 01/16/2022 - 13:26:39: [AMXX]    [1] menu.class::menu_system_tick (line 195)
+L 01/16/2022 - 13:26:39: [AMXX]    [2] scarface_system.sma::tick (line 371)
+L 01/16/2022 - 13:26:43: Plugin called menu_display when item=MENU_EXIT
+L 01/16/2022 - 13:26:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 13:26:43: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 13:26:43: [AMXX]    [0] menu.class::cso_menu_function (line 1292)
+L 01/16/2022 - 13:26:43: [AMXX]    [1] menu.class::menu_system_tick (line 195)
+L 01/16/2022 - 13:26:43: [AMXX]    [2] scarface_system.sma::tick (line 371)
+L 01/16/2022 - 14:48:03: Start of error session.
+L 01/16/2022 - 14:48:03: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 14:48:03: Player 2 is not in game.
+L 01/16/2022 - 14:48:03: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 14:48:03: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 14:48:03: [AMXX]    [0] menu.class::privilege_menu_function (line 682)
+L 01/16/2022 - 14:48:03: [AMXX]    [1] menu.class::boss_menu_handle (line 1174)
+L 01/16/2022 - 15:11:24: Start of error session.
+L 01/16/2022 - 15:11:24: Info (map "surf_ski_4") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 15:11:24: Function "reset_score" was not found
+L 01/16/2022 - 15:11:24: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 15:11:24: [AMXX] Run time error 19: function not found 
+L 01/16/2022 - 15:11:24: [AMXX]    [0] scarface_system.sma::plugin_init (line 273)
+L 01/16/2022 - 15:13:43: Start of error session.
+L 01/16/2022 - 15:13:43: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 15:13:43: Function "reset_score" was not found
+L 01/16/2022 - 15:13:43: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 15:13:43: [AMXX] Run time error 19: function not found 
+L 01/16/2022 - 15:13:43: [AMXX]    [0] scarface_system.sma::plugin_init (line 273)
+L 01/16/2022 - 15:16:42: Start of error session.
+L 01/16/2022 - 15:16:42: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 15:16:42: Function "reset_score" was not found
+L 01/16/2022 - 15:16:42: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 15:16:42: [AMXX] Run time error 19: function not found 
+L 01/16/2022 - 15:16:42: [AMXX]    [0] scarface_system.sma::plugin_init (line 273)
+L 01/16/2022 - 15:18:28: Start of error session.
+L 01/16/2022 - 15:18:28: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 15:18:28: Function "reset_score" was not found
+L 01/16/2022 - 15:18:28: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 15:18:28: [AMXX] Run time error 19: function not found 
+L 01/16/2022 - 15:18:28: [AMXX]    [0] scarface_system.sma::plugin_init (line 273)
+L 01/16/2022 - 15:21:35: Start of error session.
+L 01/16/2022 - 15:21:35: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 15:21:35: Function is not present (function "restart_server") (plugin "scarface_system.amxx")
+L 01/16/2022 - 15:21:35: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 15:21:35: [AMXX] Run time error 10: native error (native "set_task")
+L 01/16/2022 - 15:21:35: [AMXX]    [0] menu.class::amxmodx_menu_handle (line 1139)
+L 01/16/2022 - 15:21:51: Function is not present (function "restart_server") (plugin "scarface_system.amxx")
+L 01/16/2022 - 15:21:51: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 15:21:51: [AMXX] Run time error 10: native error (native "set_task")
+L 01/16/2022 - 15:21:51: [AMXX]    [0] menu.class::amxmodx_menu_handle (line 1139)
+L 01/16/2022 - 15:47:02: Start of error session.
+L 01/16/2022 - 15:47:02: Info (map "surf_ski_4") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 15:47:02: Invalid menu id 7 (was previously destroyed).
+L 01/16/2022 - 15:47:02: [AMXX] Run time error 10 (plugin "MapSpawnsEditor_RBS.amxx") (native "menu_destroy") - debug not enabled!
+L 01/16/2022 - 15:47:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2022 - 15:48:06: Invalid menu id 8 (was previously destroyed).
+L 01/16/2022 - 15:48:06: [AMXX] Run time error 10 (plugin "MapSpawnsEditor_RBS.amxx") (native "menu_destroy") - debug not enabled!
+L 01/16/2022 - 15:48:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2022 - 15:48:26: Invalid menu id 12 (was previously destroyed).
+L 01/16/2022 - 15:48:26: [AMXX] Run time error 10 (plugin "MapSpawnsEditor_RBS.amxx") (native "menu_destroy") - debug not enabled!
+L 01/16/2022 - 15:48:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2022 - 15:53:41: Invalid menu id 30 (was previously destroyed).
+L 01/16/2022 - 15:53:41: [AMXX] Run time error 10 (plugin "MapSpawnsEditor_RBS.amxx") (native "menu_destroy") - debug not enabled!
+L 01/16/2022 - 15:53:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/16/2022 - 17:16:25: Start of error session.
+L 01/16/2022 - 17:16:25: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 17:16:25: String formatted incorrectly - parameter 4 (total 4)
+L 01/16/2022 - 17:16:25: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:16:25: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:16:25: [AMXX]    [0] menu.class::main_menu_function (line 440)
+L 01/16/2022 - 17:16:27: String formatted incorrectly - parameter 4 (total 4)
+L 01/16/2022 - 17:16:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:16:27: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:16:27: [AMXX]    [0] menu.class::main_menu_function (line 440)
+L 01/16/2022 - 17:16:27: String formatted incorrectly - parameter 4 (total 4)
+L 01/16/2022 - 17:16:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:16:27: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:16:27: [AMXX]    [0] menu.class::main_menu_function (line 440)
+L 01/16/2022 - 17:16:29: String formatted incorrectly - parameter 4 (total 4)
+L 01/16/2022 - 17:16:29: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:16:29: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:16:29: [AMXX]    [0] menu.class::main_menu_function (line 440)
+L 01/16/2022 - 17:40:31: Start of error session.
+L 01/16/2022 - 17:40:31: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 17:40:31: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:40:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:40:31: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:40:31: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:40:31: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:40:31: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:40:31: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:40:31: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:20: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:20: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:20: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:20: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:26: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:26: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:26: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:26: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:26: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 17:41:27: String formatted incorrectly - parameter 6 (total 6)
+L 01/16/2022 - 17:41:27: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 17:41:27: [AMXX] Run time error 25: parameter error 
+L 01/16/2022 - 17:41:27: [AMXX]    [0] menu.class::main_menu_function (line 473)
+L 01/16/2022 - 17:41:27: [AMXX]    [1] menu.class::privilege_menu_handle (line 651)
+L 01/16/2022 - 18:10:32: Start of error session.
+L 01/16/2022 - 18:10:32: Info (map "surf_green") (file "addons/amxmodx/logs/error_20220116.log")
+L 01/16/2022 - 18:10:32: Player 1 is not in game.
+L 01/16/2022 - 18:10:32: [AMXX] Displaying debug trace (plugin "scarface_system.amxx", version "1.0")
+L 01/16/2022 - 18:10:32: [AMXX] Run time error 10: native error (native "menu_display")
+L 01/16/2022 - 18:10:32: [AMXX]    [0] menu.class::main_menu_function (line 500)
+L 01/16/2022 - 18:10:32: [AMXX]    [1] menu.class::lk_menu_handle (line 610)
