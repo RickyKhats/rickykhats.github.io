@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Регистрация</title>
+	<title>Login V4</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -25,63 +25,18 @@
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/profile.css">
 <!--===============================================================================================-->
 </head>
-<body bgcolor=black text=white>
-	<div class="limiter" bgcolor=black text=white>
-		<div class="container-login100" bgcolor=black text=white>
-			<div class="wrap-login100" bgcolor=black text=white>
-				<form class="login100-form validate-form" bgcolor=black text=white>
-					<span class="login100-form-title p-b-26" bgcolor=black text=white>
-						Зарегистрироваться
-					</span>
-					<span class="login100-form-title p-b-48">
-						<i class="zmdi zmdi-font"></i>
-					</span>
-
-					<div class="wrap-input100 validate-input" data-validate = "Неверный формат">
-						<input class="input100" type="text" name="email">
-						<span class="focus-input100" data-placeholder="Почта"></span>
-					</div>
-					
-					<div class="wrap-input100 validate-input" data-validate = "Введите имя">
-						<input class="input100" type="text" name="name">
-						<span class="focus-input100" data-placeholder="Имя пользователя"></span>
-					</div>
-
-					<div class="wrap-input100 validate-input" data-validate="Введите пароль">
-						<span class="btn-show-pass">
-							<i class="zmdi zmdi-eye"></i>
-						</span>
-						<input class="input100" type="password" name="pass">
-						<span class="focus-input100" data-placeholder="Пароль"></span>
-					</div>
-
-					<div class="container-login100-form-btn">
-						<div class="wrap-login100-form-btn">
-							<div class="login100-form-bgbtn"></div>
-							<button class="login100-form-btn" action="try_register">
-								Зарегистрироваться
-							</button>
-						</div>
-					</div>
-
-					<div class="text-center p-t-115">
-						<span class="txt1">
-							Уже зарегистрированы?
-						</span>
-
-						<a class="txt2" href="https://rickykhats.github.io/accounts/login">
-							Войти
-						</a>
-					</div>
-				</form>
-			</div>
+<body onload="profile_init()">
+	<header>
+		<div class="login100-form-btn" id="header_content"></div>
+	</header>
+	<div class="content">
+		<div class="background" style="background-image: url('images/bg-01.jpg');">
+		
 		</div>
 	</div>
-	
-
-	<div id="dropDownSelect1"></div>
 <!--===============================================================================================-->
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->

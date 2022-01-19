@@ -1,8 +1,6 @@
 'use strict';
 
-const canvas = document.getElementsByTagName('canvas')[0];
-canvas.width = canvas.clientWidth;
-canvas.height = canvas.clientHeight;
+const canvas = document.getElementsByTagName('background')[0];
 
 let config = {
     SIM_RESOLUTION: 128,
