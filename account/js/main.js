@@ -93,9 +93,9 @@ function init_user(page) {
 	console.log("AUTH: " + is_authorized())
 	if( is_authorized() ) {
 		if(page == "accounts") {
-			open_page('profile.php')
+			open_page('profile.html')
 		} else {
-			open_page('account/profile.php')
+			open_page('account/profile.html')
 		}
 	} else {
 		if(page == "accounts")
