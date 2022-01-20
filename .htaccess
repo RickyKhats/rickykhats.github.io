@@ -1,6 +1,5 @@
-AddHandler fcgid-script .html .htm
-FCGIWrapper /home/clients/login_ftp0/php/5.3/fcgi .html
-FCGIWrapper /home/clients/login_ftp0/php/5.3/fcgi .htm
+RemoveHandler .html .htm
+AddType application/x-httpd-php .php .htm .html .phtml
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteCond %{REQUEST_URI} !^/modules_extra/.*$

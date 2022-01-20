@@ -1,15 +1,116 @@
-<?php
-$fp = @fopen("/tmp/inputfile.txt", "r");
-if ($fp) {
-    while (($buffer = fgets($fp, 4096)) !== false) {
-        echo $buffer;
-    }
-    if (!feof($fp)) {
-        echo "Ошибка: fgets() неожиданно потерпел неудачу\n";
-    }
-    fclose($fp);
-}
-?>
-<?php
-	$name = 'Юрий';
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Авторизация</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="../resources/images/icons/favicon.ico"/>
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/fonts/iconic/css/material-design-iconic-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="../resources/css/util.css">
+    <link rel="stylesheet" type="text/css" href="../resources/css/main.css">
+    <!--===============================================================================================-->
+</head>
+<body onload="login_init()">
+<header>
+</header>
+<div class="content">
+    <div class="background" style="background-image: url('../resources/images/bg-01.jpg');">
+        <div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54" color="black">
+            <form class="login100-form validate-form">
+					<span class="login100-form-title p-b-49">
+						Авторизация
+					</span>
+
+                <div class="wrap-input100 validate-input" data-validate = "Неверный формат">
+                    <input class="input100" type="text" name="email" placeholder="Введите почту" id="login_input_email">
+                    <span class="focus-input100" data-symbol="&#xf206;" data-placeholder="Почта"></span>
+                </div>
+
+                <div class="wrap-input100 validate-input" data-validate="Неверный пароль">
+                    <input class="input100" type="password" name="pass" placeholder="Введите пароль" id="login_input_password">
+                    <span class="focus-input100" data-symbol="&#xf190;"></span>
+                </div>
+
+                <div class="text-right p-t-8 p-b-31">
+                    <a href="#">
+                        Забыли пароль?
+                    </a>
+                </div>
+
+                <div class="container-login100-form-btn">
+                    <div class="wrap-login100-form-btn">
+                        <div class="login100-form-bgbtn"></div>
+                        <div class="login100-form-btn" id="login_button_accept">
+                            Авторизоваться
+                        </div>
+                    </div>
+                </div>
+
+                <div class="txt1 text-center p-t-54 p-b-20">
+						<span>
+						</span>
+                </div>
+
+                <div class="flex-c-m">
+                    <a href="#" class="login100-social-item bg1">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="login100-social-item bg2">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+
+                    <a href="#" class="login100-social-item bg3">
+                        <i class="fa fa-google"></i>
+                    </a>
+                </div>
+
+                <div class="text-center p-t-115">
+						<span class="txt1">
+							Нет аккаунта?
+						</span>
+                    <a href="register.html">
+                        Зарегистрироваться
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!--===============================================================================================-->
+<script src="../resources/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+<script src="../resources/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+<script src="../resources/vendor/bootstrap/js/popper.js"></script>
+<script src="../resources/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+<script src="../resources/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+<script src="../resources/vendor/daterangepicker/moment.min.js"></script>
+<script src="../resources/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+<script src="../resources/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+<script src="../resources/js/main.js"></script>
+
+</body>
+</html>

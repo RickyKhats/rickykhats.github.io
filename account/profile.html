@@ -3,6 +3,14 @@
 <head>
 	<title>Профиль</title>
 	<meta charset="UTF-8">
+    <script src="../resources/js/main.js"></script>
+    <script>
+        if(is_authorized()) {
+            add_header()
+        } else {
+            open_page("login.html")
+        }
+    </script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
 	<link rel="icon" type="image/png" href="../resources/images/icons/favicon.ico"/>
@@ -293,7 +301,5 @@
 <!--===============================================================================================-->
 	<script src="../resources/vendor/countdowntime/countdowntime.js"></script>
 <!--===============================================================================================-->
-	<script src="../resources/js/main.js"></script>
-
 </body>
 </html>

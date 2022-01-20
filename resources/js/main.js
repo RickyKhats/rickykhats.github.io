@@ -14,11 +14,7 @@ function login_init() {
 }
 function profile_init() {
 	console.log('profile_init()')
-	if(is_authorized()) {
-		add_header()
-	} else {
-		open_page("login.html")
-	}
+
 }
 function profile_edit_init() {
 	if(is_authorized()) {
@@ -72,15 +68,17 @@ function init_user(page) {
 	console.log('init_user()')
 	console.log("AUTH: " + is_authorized())
 	if( is_authorized() ) {
-		if(page == "accounts") {
-			open_page('profile.html')
+		if(page === "accounts") {
+			open_page('index.php')
 		} else {
-			open_page('account/profile.html')
+			open_page('account/index.php')
 		}
 	} else {
-		if(page == "accounts")
-			open_page('login.html')
-		else open_page('account/login.html')
+		if(page === "accounts") {
+			open_page('index.php')
+		} else {
+			open_page('account/index.php')
+		}
 	}
 }
 
