@@ -20,8 +20,20 @@ function login_init() {
 	add_header()
 }
 function profile_init() {
-	console.log('profile_init()')
-	add_header()
+	if(is_authorized()) {
+		console.log('profile_init()')
+		add_header()
+	} else {
+		open_page("login.html")
+	}
+}
+function profile_edit_init() {
+	if(is_authorized()) {
+		console.log('profile_edit_init()')
+		add_header()
+	} else {
+		open_page("login.html")
+	}
 }
 
 function add_header() {
@@ -78,12 +90,28 @@ function try_register() {
 	console.log('try_register()')
 	var user_email = document.getElementById('registration_input_email');
 	var user_password = document.getElementById('registration_input_password');
+	var user_password_copy = document.getElementById('registration_input_password_copy');
 	
 	localStorage.setItem('correct_user_email', user_email.value);
 	localStorage.setItem('correct_user_password', user_password.value);
+	localStorage.setItem('user_email', null);
+	localStorage.setItem('user_password', null);
 	
 	var input = $('.validate-input .input100');
 	var check = true;
+	
+	if(user_password_copy.value != user_password.value) {
+		console.log('Пароли не совпадают')
+		alert('Пароли не совпадают')
+		check = false
+		return;
+	}
+	if(user_password.value.length < 6) {
+		console.log('Короткий пароль')
+		alert('Короткий пароль')
+		check = false
+		return;
+	}
 
 	for(var i=0; i<input.length; i++) {
 		if(validate(input[i]) == false) {
@@ -96,6 +124,7 @@ function try_register() {
 		open_page('index.html')
 	} else {
 		console.log('Некорректные данные')
+		alert('Некорректные данные')
 	}
 		
 }
@@ -121,11 +150,16 @@ function try_login() {
 		if( is_authorized(user_email.value, user_password.value) ) {
 			open_page('index.html')
 		} else {
+			alert('Неверный логин или пароль')
 			console.log('user_email:' + localStorage.getItem('user_email') + '\nuser_password: ' + localStorage.getItem('user_password'))
 			console.log('correct_user_email: ' + localStorage.getItem('correct_user_email') + '\ncorrect_user_password: ' + localStorage.getItem('correct_user_password'))
 		}			
 	} else {
-		console.log('Некорректные данные')
+		if( !is_authorized(user_email.value, user_password.value) ) {
+			alert('Неверный логин или пароль')
+		} else {
+			alert('Некорректные данные')
+		}	
 	}
 }
 
@@ -135,7 +169,10 @@ function open_page(input) {
 }
 
 function quit() {
-	
+	localStorage.setItem('user_email', null);
+	localStorage.setItem('user_password', null);
+	alert('Профиль успешно удалён')
+	open_page("index.html")
 }
 
 function validate (input) {
@@ -161,6 +198,7 @@ function is_authorized() {
 	console.log('	user_email:' + localStorage.getItem('user_email') + '\nuser_password: ' + localStorage.getItem('user_password'))
 	console.log('	correct_user_email:' + localStorage.getItem('correct_user_email') + '\ncorrect_user_password: ' + localStorage.getItem('correct_user_password'))
 	console.log('}')
+	if(localStorage.getItem('correct_user_email') == null || localStorage.getItem('correct_user_password') == null) return false
 	return (localStorage.getItem('user_email') == localStorage.getItem('correct_user_email') && localStorage.getItem('user_password') == localStorage.getItem('correct_user_password'))
 }
 
