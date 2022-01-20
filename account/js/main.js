@@ -1,5 +1,9 @@
 
 function register_init() {
+	if(is_authorized()) {
+		open_page("index.html")
+		return false
+	}
 	console.log('register_init()');
 	var register_button = document.getElementById('registration_button_accept');
 	var user_email = document.getElementById('registration_input_email');
@@ -9,9 +13,15 @@ function register_init() {
 	}
 	register_button.addEventListener('click', try_register);
 	add_header()
+	return true
 }
 function login_init() {
 	console.log('login_init()')
+	if(is_authorized()) {
+		open_page("index.html")
+		return false
+	}
+	
 	var login_button = document.getElementById('login_button_accept');
 	var user_email = document.getElementById('login_input_email');
 	var user_password = document.getElementById('login_input_password');
@@ -20,9 +30,8 @@ function login_init() {
 	add_header()
 }
 function profile_init() {
+	console.log('profile_init()')
 	if(is_authorized()) {
-		console.log('profile_init()')
-		add_header()
 	} else {
 		open_page("login.html")
 	}
@@ -41,7 +50,13 @@ function init_default(){
 
 function add_header() {
 	var content = document.getElementById('header_content');
-	content.insertAdjacentHTML('beforeend', '<div class="header-dark"><nav class="navbar navbar-dark navbar-expand-md navigation-clean-search"><div class="container"><a class="navbar-brand" href="#">Scarfaces</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only"></span><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navcol-1"><ul class="nav navbar-nav"><li class="nav-item" role="presentation"><a class="nav-link" href="http://rickykhats.github.io/account/">Профиль</a></li><li class="dropdown"><a class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Навигация </a><div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="http://rickykhats.github.io/playlists/phonk/">Музыка</a><a class="dropdown-item" role="presentation" href="#">Галлерея</a><a class="dropdown-item" role="presentation" href="#">Документы</a></div></li></ul><form class="form-inline mr-auto" target="_self"><div class="form-group"><label for="search-field"><i class="fa fa-search"></i></label><input class="form-control search-field" type="search" name="search" id="search-field"></div></form><span class="navbar-text"><div class="profile_content" id="profile_content"> </div></div></div></nav></div>');
+	var request = new XMLHttpRequest;
+	request.open('GET', 'header_new.html', true);
+	request.onload = function () {
+		console.log(request.responseText);
+		content.insertAdjacentHTML('beforeend', request.responseText);
+	};
+	request.send(null);
 	const profile_content = document.getElementById('profile_content');
 	if(profile_content != null) {
 		if( is_authorized() ) {	
@@ -78,9 +93,9 @@ function init_user(page) {
 	console.log("AUTH: " + is_authorized())
 	if( is_authorized() ) {
 		if(page == "accounts") {
-			open_page('profile.html')
+			open_page('profile.php')
 		} else {
-			open_page('account/profile.html')
+			open_page('account/profile.php')
 		}
 	} else {
 		if(page == "accounts")
