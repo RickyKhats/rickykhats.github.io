@@ -1,20 +1,3 @@
-
-function register_init() {
-	if(is_authorized()) {
-		open_page("index.html")
-		return false
-	}
-	console.log('register_init()');
-	var register_button = document.getElementById('registration_button_accept');
-	var user_email = document.getElementById('registration_input_email');
-	var user_password = document.getElementById('registration_input_password');
-	if(localStorage.getItem('user_email') != null && localStorage.getItem('user_password') != null ) {
-		console.log('user_email: ' + localStorage.getItem('user_email') + '\nuser_password' + localStorage.getItem('user_password'))
-	}
-	register_button.addEventListener('click', try_register);
-	add_header()
-	return true
-}
 function login_init() {
 	console.log('login_init()')
 	if(is_authorized()) {
@@ -32,6 +15,7 @@ function login_init() {
 function profile_init() {
 	console.log('profile_init()')
 	if(is_authorized()) {
+		add_header()
 	} else {
 		open_page("login.html")
 	}
@@ -49,25 +33,21 @@ function init_default(){
 }
 
 function add_header() {
-	var content = document.getElementById('header_content');
-	var request = new XMLHttpRequest;
-	request.open('GET', 'header_new.html', true);
-	request.onload = function () {
-		console.log(request.responseText);
-		content.insertAdjacentHTML('beforeend', request.responseText);
-	};
-	request.send(null);
+	let content = document.getElementById('header_content');
+	if(content != null) {
+		content.insertAdjacentHTML('beforeend', '<div><div class="header-dark"><nav class="navbar navbar-dark navbar-expand-md navigation-clean-search"><div class="container"><a class="navbar-brand" href="#">Scarfaces</a><div class="collapse navbar-collapse" id="navcol-1"><ul class="nav navbar-nav"><li class="nav-item" role="presentation"><a class="nav-link" href="#">Link</a></li><li class="dropdown"><a class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Dropdown </a><div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="#">First Item</a><a class="dropdown-item" role="presentation" href="#">Second Item</a><a class="dropdown-item" role="presentation" href="#">Third Item</a></div></li></ul><form class="form-inline mr-auto" target="_self"><div class="form-group"><label for="search-field"><i class="fa fa-search"></i></label><input class="form-control search-field" type="search" name="search" id="search-field"></div></form><div id="profile_content"> </div></div></div></nav></div></div>');
+	}
 	const profile_content = document.getElementById('profile_content');
 	if(profile_content != null) {
-		if( is_authorized() ) {	
+		if( is_authorized() ) {
 			profile_content.insertAdjacentHTML('beforeend', '<a href="#" class="login" id="quit">Выйти</a></span>');
 		} else {
 			profile_content.insertAdjacentHTML('beforeend', '<a href="#" class="login" id="auth">Авторизоваться</a></span>');
 			profile_content.insertAdjacentHTML('beforeend', '<a class="btn btn-light action-button" role="button" href="#" id="register">Зарегистрироваться</a>');
 		}
-		var quit = document.getElementById('quit');
-		var auth = document.getElementById('auth');
-		var register = document.getElementById('register');
+		let quit = document.getElementById('quit');
+		let auth = document.getElementById('auth');
+		let register = document.getElementById('register');
 		if(quit != null) {
 			quit.addEventListener('click', function (){
 				localStorage.removeItem('correct_user_email')
@@ -146,6 +126,7 @@ function try_register() {
 	}
 		
 }
+
 function try_login() {
 	console.log('try_login()')
 	var user_email = document.getElementById('login_input_email');
@@ -158,12 +139,12 @@ function try_login() {
 	var check = true;
 
 	for(var i=0; i<input.length; i++) {
-		if(validate(input[i]) == false) {
+		if(validate(input[i]) === false) {
 			console.log('incorrect:' + input[i].id)
 			showValidate(input[i]);
 			check=false;
 		}
-	};
+	}
 	if(check) {
 		if( is_authorized(user_email.value, user_password.value) ) {
 			open_page('index.html')
@@ -179,18 +160,6 @@ function try_login() {
 			alert('Некорректные данные')
 		}	
 	}
-}
-
-function open_page(input) {
-	console.log('open_page(' + input + ')')
-	location=input;
-}
-
-function quit() {
-	localStorage.setItem('user_email', null);
-	localStorage.setItem('user_password', null);
-	alert('Профиль успешно удалён')
-	open_page("index.html")
 }
 
 function validate (input) {
@@ -211,11 +180,22 @@ function showValidate(input) {
 	$(thisAlert).addClass('console.log-validate');
 }
 
+function open_page(input) {
+	console.log('open_page(' + input + ')')
+	location=input;
+}
+
+function quit() {
+	alert('Профиль успешно удалён')
+	localStorage.setItem('user_email', null);
+	localStorage.setItem('user_password', null);
+	open_page("index.html")
+}
+
 function is_authorized() {
-	console.log('is_authorized() {')
-	console.log('	user_email:' + localStorage.getItem('user_email') + '\nuser_password: ' + localStorage.getItem('user_password'))
-	console.log('	correct_user_email:' + localStorage.getItem('correct_user_email') + '\ncorrect_user_password: ' + localStorage.getItem('correct_user_password'))
-	console.log('}')
+	console.log('is_authorized()')
+	console.log('user_email:' + localStorage.getItem('user_email') + '\nuser_password: ' + localStorage.getItem('user_password'))
+	console.log('correct_user_email:' + localStorage.getItem('correct_user_email') + '\ncorrect_user_password: ' + localStorage.getItem('correct_user_password'))
 	if(localStorage.getItem('correct_user_email') == null || localStorage.getItem('correct_user_password') == null) return false
 	return (localStorage.getItem('user_email') == localStorage.getItem('correct_user_email') && localStorage.getItem('user_password') == localStorage.getItem('correct_user_password'))
 }
