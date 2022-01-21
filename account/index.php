@@ -29,6 +29,7 @@
 </head>
 <body onload="login_init()">
 <header>
+
 </header>
 <div class="content">
     <div class="background" style="background-image: url('../resources/images/bg-01.jpg');">
