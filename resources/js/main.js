@@ -1,3 +1,28 @@
+var header = '<div>\n' +
+	'  <div class="header-dark">\n' +
+	'    <nav class="navbar navbar-dark navbar-expand-md navigation-clean-search">\n' +
+	'      <div class="container">\n' +
+	'        <a class="navbar-brand" href="#">\n' +
+	'          Scarfaces\n' +
+	'        </a>\n' +
+	'        <div class="collapse navbar-collapse" id="navcol-1">\n' +
+	'          <ul class="nav navbar-nav">\n' +
+	'            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Link</a></li>\n' +
+	'            <li class="dropdown"><a class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Dropdown </a>\n' +
+	'              <div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="#">First Item</a><a class="dropdown-item" role="presentation" href="#">Second Item</a><a class="dropdown-item" role="presentation" href="#">Third Item</a></div>\n' +
+	'            </li>\n' +
+	'          </ul>\n' +
+	'          <form class="form-inline mr-auto" target="_self">\n' +
+	'            <div class="form-group"><label for="search-field"><i class="fa fa-search"></i></label><input class="form-control search-field" type="search" name="search" id="search-field">\n' +
+	'            </div>\n' +
+	'          </form>\n' +
+	'          <div id="profile_content"> </div>\n' +
+	'        </div>\n' +
+	'      </div>\n' +
+	'    </nav>\n' +
+	'  </div>\n' +
+	'</div>'
+
 function login_init() {
 	console.log('login_init()')
 	if(is_authorized()) {
@@ -14,7 +39,7 @@ function login_init() {
 }
 function profile_init() {
 	console.log('profile_init()')
-
+	add_header()
 }
 function profile_edit_init() {
 	if(is_authorized()) {
@@ -29,9 +54,10 @@ function init_default(){
 }
 
 function add_header() {
+	console.log('try add header')
 	let content = document.getElementById('header_content');
 	if(content != null) {
-		content.insertAdjacentHTML('beforeend', '<div><div class="header-dark"><nav class="navbar navbar-dark navbar-expand-md navigation-clean-search"><div class="container"><a class="navbar-brand" href="#">Scarfaces</a><div class="collapse navbar-collapse" id="navcol-1"><ul class="nav navbar-nav"><li class="nav-item" role="presentation"><a class="nav-link" href="#">Link</a></li><li class="dropdown"><a class="dropdown-toggle nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Dropdown </a><div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="#">First Item</a><a class="dropdown-item" role="presentation" href="#">Second Item</a><a class="dropdown-item" role="presentation" href="#">Third Item</a></div></li></ul><form class="form-inline mr-auto" target="_self"><div class="form-group"><label for="search-field"><i class="fa fa-search"></i></label><input class="form-control search-field" type="search" name="search" id="search-field"></div></form><div id="profile_content"> </div></div></div></nav></div></div>');
+		content.insertAdjacentHTML('beforeend', header);
 	}
 	const profile_content = document.getElementById('profile_content');
 	if(profile_content != null) {
@@ -68,25 +94,25 @@ function init_user(page) {
 	console.log('init_user()')
 	console.log("AUTH: " + is_authorized())
 	if( is_authorized() ) {
-		if(page === "accounts") {
-			open_page('index.php')
+		if(page === "account") {
+			open_page('profile.html')
 		} else {
-			open_page('account/index.php')
+			open_page('account/profile.html')
 		}
 	} else {
-		if(page === "accounts") {
-			open_page('index.php')
+		if(page === "account") {
+			open_page('login.html')
 		} else {
-			open_page('account/index.php')
+			open_page('account/login.html')
 		}
 	}
 }
 
 function try_register() {
 	console.log('try_register()')
-	var user_email = document.getElementById('registration_input_email');
-	var user_password = document.getElementById('registration_input_password');
-	var user_password_copy = document.getElementById('registration_input_password_copy');
+	let user_email = document.getElementById('registration_input_email');
+	let user_password = document.getElementById('registration_input_password');
+	let user_password_copy = document.getElementById('registration_input_password_copy');
 	
 	localStorage.setItem('correct_user_email', user_email.value);
 	localStorage.setItem('correct_user_password', user_password.value);
@@ -96,7 +122,7 @@ function try_register() {
 	var input = $('.validate-input .input100');
 	var check = true;
 	
-	if(user_password_copy.value != user_password.value) {
+	if(user_password_copy.value !== user_password.value) {
 		console.log('Пароли не совпадают')
 		alert('Пароли не совпадают')
 		check = false
@@ -125,49 +151,14 @@ function try_register() {
 		
 }
 
-function try_login() {
-	console.log('try_login()')
-	var user_email = document.getElementById('login_input_email');
-	var user_password = document.getElementById('login_input_password');
-	
-	localStorage.setItem('user_email', user_email.value);
-	localStorage.setItem('user_password', user_password.value);
-	
-	var input = $('.validate-input .input100');
-	var check = true;
-
-	for(var i=0; i<input.length; i++) {
-		if(validate(input[i]) === false) {
-			console.log('incorrect:' + input[i].id)
-			showValidate(input[i]);
-			check=false;
-		}
-	}
-	if(check) {
-		if( is_authorized(user_email.value, user_password.value) ) {
-			open_page('index.html')
-		} else {
-			alert('Неверный логин или пароль')
-			console.log('user_email:' + localStorage.getItem('user_email') + '\nuser_password: ' + localStorage.getItem('user_password'))
-			console.log('correct_user_email: ' + localStorage.getItem('correct_user_email') + '\ncorrect_user_password: ' + localStorage.getItem('correct_user_password'))
-		}			
-	} else {
-		if( !is_authorized(user_email.value, user_password.value) ) {
-			alert('Неверный логин или пароль')
-		} else {
-			alert('Некорректные данные')
-		}	
-	}
-}
-
 function validate (input) {
-	if($(input).attr('type') == 'email' || $(input).attr('name') == 'email') {
+	if($(input).attr('type') === 'email' || $(input).attr('name') === 'email') {
 		if($(input).val().trim().match(/^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{1,5}|[0-9]{1,3})(\]?)$/) == null) {
 			return false;
 		}
 	}
 	else {
-		if($(input).val().trim() == ''){
+		if($(input).val().trim() === ''){
 			return false;
 		}
 	}
@@ -195,7 +186,7 @@ function is_authorized() {
 	console.log('user_email:' + localStorage.getItem('user_email') + '\nuser_password: ' + localStorage.getItem('user_password'))
 	console.log('correct_user_email:' + localStorage.getItem('correct_user_email') + '\ncorrect_user_password: ' + localStorage.getItem('correct_user_password'))
 	if(localStorage.getItem('correct_user_email') == null || localStorage.getItem('correct_user_password') == null) return false
-	return (localStorage.getItem('user_email') == localStorage.getItem('correct_user_email') && localStorage.getItem('user_password') == localStorage.getItem('correct_user_password'))
+	return (localStorage.getItem('user_password') === localStorage.getItem('correct_user_password') && localStorage.getItem('correct_user_email') === localStorage.getItem('user_email'))
 }
 
 (function ($) {

@@ -1,62 +1,100 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>Плейлист</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
-<!--===============================================================================================-->	
-	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
-<!--===============================================================================================-->	
-	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="css/util.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-<!--===============================================================================================-->
-</head>
-<body onload="init_default()">
-	<header>
-		<div class="login100-form-btn" id="header_content"></div>
-	</header>
-	<div class="content">
-		<div class="background" style="background-image: url('images/bg-01.jpg');">
-			<div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
-				<form class="login100-form validate-form">
-					<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWWY64wDtewQt?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-				</form>
-			</div>
-		</div>
-	</div>
-	
-<!--===============================================================================================-->
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/animsition/js/animsition.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/bootstrap/js/popper.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/daterangepicker/moment.min.js"></script>
-	<script src="vendor/daterangepicker/daterangepicker.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/countdowntime/countdowntime.js"></script>
-<!--===============================================================================================-->
-	<script src="js/main.js"></script>
+<div id="controls">
+	<audio id="audio"></audio>
+	<div class="audio-track"><div class="time"></div></div>
+	<button class="play">Play</button>
+	<button class="pause">Pause</button>
+	<button class="prev">&#60;prev</button>
+	<button class="next">next&#62;</button>
+</div>
 
-</body>
-</html>
+<script type="text/javascript">
+	let audio = document.getElementById("audio");    // Берём элемент audio
+	let time = document.querySelector(".time");      // Берём аудио дорожку
+	let btnPlay = document.querySelector(".play");   // Берём кнопку проигрывания
+	let btnPause = document.querySelector(".pause"); // Берём кнопку паузы
+	let btnPrev = document.querySelector(".prev");   // Берём кнопку переключения предыдущего трека
+	let btnNext = document.querySelector(".next");   // Берём кнопку переключение следующего трека
+	// Массив с названиями песен
+	let playlist = [
+		'track1.mp3',
+		'track2.mp3',
+		'track3.mp3',
+		'track4.mp3',
+	];
+
+	let track; // Переменная с индексом трека
+
+	// Событие перед загрузкой страницы
+	window.onload = function() {
+		track = 0; // Присваиваем переменной ноль
+	}
+	function switchTreck (numTreck) {
+		// Меняем значение атрибута src
+		audio.src = './audio/' + playlist[numTreck];
+		// Назначаем время песни ноль
+		audio.currentTime = 0;
+		// Включаем песню
+		audio.play();
+	}
+	btnPlay.addEventListener("click", function() {
+		audio.play(); // Запуск песни
+		// Запуск интервала
+		audioPlay = setInterval(function() {
+			// Получаем значение на какой секунде песня
+			let audioTime = Math.round(audio.currentTime);
+			// Получаем всё время песни
+			let audioLength = Math.round(audio.duration)
+			// Назначаем ширину элементу time
+			time.style.width = (audioTime * 100) / audioLength + '%';
+			// Сравниваем, на какой секунде сейчас трек и всего сколько времени длится
+			// И проверяем что переменная treck меньше четырёх
+			if (audioTime === audioLength && track < 3) {
+				track++; // То Увеличиваем переменную
+				switchTreck(track); // Меняем трек
+				// Иначе проверяем тоже самое, но переменная treck больше или равна четырём
+			} else if (audioTime === audioLength && track >= 3) {
+				track = 0; // То присваиваем treck ноль
+				switchTreck(track); // Меняем трек
+			}
+		}, 10)
+	});
+	btnPause.addEventListener("click", function() {
+		audio.pause(); // Останавливает песню
+		clearInterval(audioPlay) // Останавливает интервал
+	});
+	btnPrev.addEventListener("click", function() {
+		// Проверяем что переменная treck больше нуля
+		if (track > 0) {
+			track--; // Если верно, то уменьшаем переменную на один
+			switchTreck(track); // Меняем песню.
+		} else { // Иначе
+			track = 3; // Присваиваем три
+			switchTreck(track); // Меняем песню
+		}
+	});
+	btnNext.addEventListener("click", function() {
+		// Проверяем что переменная treck больше трёх
+		if (track < 3) { // Если да, то
+			track++; // Увеличиваем её на один
+			switchTreck(track); // Меняем песню
+		} else { // Иначе
+			track = 0; // Присваиваем ей ноль
+			switchTreck(track); // Меняем песню
+		}
+	});
+</script>
+
+<style>
+	.audio-track {
+		width: 150px;
+		height: 3px;
+		background-color: #dddddd;
+		margin: 20px 0
+	}
+
+	.time {
+		width: 0;
+		height: 3px;
+		background-color: #474747
+	}
+</style>

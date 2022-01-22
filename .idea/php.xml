@@ -3,6 +3,7 @@
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$" />
+      <path value="$USER_HOME$/Desktop/php-8.1.2" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
