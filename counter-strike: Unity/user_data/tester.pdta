@@ -1,0 +1,17 @@
+{
+  "name":"",
+  "money":0.0,
+  "inventory":
+  {"weapons":
+  [
+    {"instanceID":-132728},
+    {"instanceID":-131188}
+  ],"classes":
+  [
+    
+  ],"other":
+  [
+    
+  ]
+  }
+}
