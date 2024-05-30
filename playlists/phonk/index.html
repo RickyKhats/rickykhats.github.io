@@ -1,19 +1,19 @@
 <div id="controls">
 	<audio id="audio"></audio>
 	<div class="audio-track"><div class="time"></div></div>
-	<button class=".play">Play</button>
-	<button class=".pause">Pause</button>
-	<button class=".prev">&#60;prev</button>
-	<button class=".next">next&#62;</button>
+	<button class="play">Play</button>
+	<button class="pause">Pause</button>
+	<button class="prev">&#60;prev</button>
+	<button class="next">next&#62;</button>
 </div>
 
 <script type="text/javascript">
 	let audio = document.getElementById("audio");    // Берём элемент audio
-	let time = document.querySelector(".time");      // Берём аудио дорожку
-	let btnPlay = document.querySelector(".play");   // Берём кнопку проигрывания
-	let btnPause = document.querySelector(".pause"); // Берём кнопку паузы
-	let btnPrev = document.querySelector(".prev");   // Берём кнопку переключения предыдущего трека
-	let btnNext = document.querySelector(".next");   // Берём кнопку переключение следующего трека
+	let time = document.querySelector("time");      // Берём аудио дорожку
+	let btnPlay = document.querySelector("play");   // Берём кнопку проигрывания
+	let btnPause = document.querySelector("pause"); // Берём кнопку паузы
+	let btnPrev = document.querySelector("prev");   // Берём кнопку переключения предыдущего трека
+	let btnNext = document.querySelector("next");   // Берём кнопку переключение следующего трека
 	// Массив с названиями песен
 	let playlist = [
 		'track1.mp3',
